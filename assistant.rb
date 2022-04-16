@@ -1,6 +1,8 @@
 require 'pocketsphinx-ruby'
 require "google/cloud/speech"
 require 'generator'
+require "google/cloud/text_to_speech"
+require 'gosu'
 class Microphone
 	def initialize
 		@queue_buffer = Queue.new
@@ -17,6 +19,7 @@ class Microphone
 			end
 		end
 	end
+
 	def stop_recording
 		@microphone.stop_recording
 	end
@@ -107,14 +110,15 @@ def main()
 		encoding:                 :LINEAR16,
 		sample_rate_hertz:        16_000,
 		language_code:            "en-US",
-		enable_word_time_offsets: true
+		enable_word_time_offsets: true,
+		enable_automatic_punctuation:true,
 	)
 	streaming_config = Google::Cloud::Speech::V1::StreamingRecognitionConfig.new(
 		config: config,
 		interim_results:true
 
 	)
-	file = File.open("test.raw", "wb")
+	# file = File.open("test.raw", "wb")
 	microphone = Microphone.new
 	t1 = Thread.new{microphone.start_recording()}
 	stream = microphone.stream()
@@ -136,8 +140,60 @@ def main()
 	t1.join
 end
 
+def text_to_speech()
+	client = Google::Cloud::TextToSpeech.text_to_speech()
+	synthesis_input = Google::Cloud::TextToSpeech::V1::SynthesisInput.new(text: "I'm listening")
+	voice = Google::Cloud::TextToSpeech::V1::VoiceSelectionParams.new(
+		language_code:"en-US", 
+		name: "en-GB-Wavenet-A",
+		# ssml_gender:Google::Cloud::TextToSpeech::V1::SsmlVoiceGender::FEMALE
+	)
+	audio_config = Google::Cloud::TextToSpeech::V1::AudioConfig.new(
+		audio_encoding: Google::Cloud::TextToSpeech::V1::AudioEncoding::LINEAR16
+	)
+	response = client.synthesize_speech(
+    input:synthesis_input, voice:voice, audio_config:audio_config
+	)
 
-main()
+	file = File.new("response.wav","wb")
+	file.write response.audio_content
+	file.close
+
+	puts "done"
+	
+end
+
+text_to_speech()
 
 
+class ApplicationWindow < Gosu::Window
 
+	# initialize creates a window with a width an a height
+	# and a caption. It also sets up any variables to be used.
+	# This is procedure i.e the return value is 'undefined'
+	def initialize
+	  super(900, 900, false)
+	  @shape_x = 0
+	  self.caption = "Gosu Cycle Example"
+  
+	  # Create and load an image to display
+	#   @background_image = Gosu::Image.new("media/earth.png")
+		
+	  # Create and load a font for drawing text on the screen
+	  @font = Gosu::Font.new(20)
+	
+	  puts("0. In initialize\n")
+	end
+
+	def update
+		
+		if button_down?(Gosu::KbP)
+			@music = Gosu::Sample.new("response.wav")
+			@music.play()
+		  end
+	end
+end
+
+
+window = ApplicationWindow.new
+window.show
