@@ -3,6 +3,7 @@ require "google/cloud/speech"
 require 'generator'
 require "google/cloud/text_to_speech"
 require 'gosu'
+
 class Microphone
 	def initialize
 		@queue_buffer = Queue.new
@@ -24,9 +25,9 @@ class Microphone
 		@microphone.stop_recording
 	end
 
+
 	def stream
 		Enumerator.new do |enum|
-			
 			while not @closed
 				
 				chunk = @queue_buffer.pop()
@@ -165,35 +166,35 @@ end
 
 text_to_speech()
 
+main()
+# class ApplicationWindow < Gosu::Window
 
-class ApplicationWindow < Gosu::Window
-
-	# initialize creates a window with a width an a height
-	# and a caption. It also sets up any variables to be used.
-	# This is procedure i.e the return value is 'undefined'
-	def initialize
-	  super(900, 900, false)
-	  @shape_x = 0
-	  self.caption = "Gosu Cycle Example"
+# 	# initialize creates a window with a width an a height
+# 	# and a caption. It also sets up any variables to be used.
+# 	# This is procedure i.e the return value is 'undefined'
+# 	def initialize
+# 	  super(900, 900, false)
+# 	  @shape_x = 0
+# 	  self.caption = "Gosu Cycle Example"
   
-	  # Create and load an image to display
-	#   @background_image = Gosu::Image.new("media/earth.png")
+# 	  # Create and load an image to display
+# 	#   @background_image = Gosu::Image.new("media/earth.png")
 		
-	  # Create and load a font for drawing text on the screen
-	  @font = Gosu::Font.new(20)
+# 	  # Create and load a font for drawing text on the screen
+# 	  @font = Gosu::Font.new(20)
 	
-	  puts("0. In initialize\n")
-	end
+# 	  puts("0. In initialize\n")
+# 	end
 
-	def update
+# 	def update
 		
-		if button_down?(Gosu::KbP)
-			@music = Gosu::Sample.new("response.wav")
-			@music.play()
-		  end
-	end
-end
+# 		if button_down?(Gosu::KbP)
+# 			@music = Gosu::Sample.new("response.wav")
+# 			@music.play()
+# 		  end
+# 	end
+# end
 
 
-window = ApplicationWindow.new
-window.show
+# window = ApplicationWindow.new
+# window.show
