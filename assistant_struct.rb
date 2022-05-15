@@ -158,7 +158,6 @@ def add_item_to_shopping_list(item, text_to_speech_settings)
         end
     end
     if item_already_existed
-        puts "vao day"
         response = "The item has already in your shopping list"
     else
         shopping_list.puts item
@@ -172,12 +171,72 @@ def search(search_key_word,text_to_speech_settings)
     search_query = URI.encode_www_form([['q',search_key_word]])
     uri = "https://google.com/search?" + search_query
     Launchy.open(uri)
-    puts uri
+    serpapi_key="6383e617670c68b60eaf5825a8142efd2a0fb91e2abd4e4723b1f3e21944a385"
+    uri = "https://serpapi.com/search?api_key=#{serpapi_key}&gl=au&#{search_query}"
+    serpapi_response = HTTP.get(uri)
+    response_body = serpapi_response.parse
+    if response_body["answer_box"] != nil
+        answer_box = response_body["answer_box"]
+        if answer_box["type"] == "calculator_result"
+            response = "The result is: " + response_body["answer_box"]["result"]
+            puts response
+        elsif answer_box["type"] == "finance_results"
+            company = answer_box["title"]
+            stock_price = answer_box["price"].to_s + " " + answer_box["currency"]
+            response = "#{company}'s stock is #{stock_price}."
+            puts response
+        elsif answer_box["type"] == "population_result"
+            place = answer_box["place"]
+            population = answer_box["population"]
+            response = "The population of #{place} is #{population}"
+            puts response
+        elsif answer_box["type"] == "currency_converter"
+            original_price = answer_box["currency_converter"]["from"]
+            converted_price = answer_box["currency_converter"]["to"]
+            response = original_price["price"].to_s + " #{original_price["currency"]} is " + converted_price["price"].to_s + " #{converted_price["currency"]}."
+            puts response
+        elsif answer_box["type"] == "dictionary_results"
+            word_type = answer_box["word_type"]
+            definition_list= answer_box["definitions"]
+            response = "#{answer_box["syllables"]} is a #{word_type}. It has #{definition_list.length} meanings. "
+            for i in 1..definition_list.length
+                response += "\n"
+                response += "#{i}. #{definition_list[i-1]}"
+                
+            end
+            puts response
+        elsif answer_box["type"] == "organic_result"
+            puts "vao day"
+            answer_box_source = URI.parse(answer_box["link"]).host
+            response = "I found a result from #{answer_box_source}: "
+            answer_box_snippet = "'#{answer_box["snippet"]}'"
+            response += answer_box_snippet
+         
+        end
+    elsif response_body["knowledge_graph"] != nil
+        knowledge_graph_source = response_body["knowledge_graph"]["source"]["name"]
+        response = "I found a result from #{knowledge_graph_source}: "
+        knowledge_graph_description = "'#{response_body["knowledge_graph"]["description"]}'"
+        response += knowledge_graph_description
+        puts response
+    else 
+        response = "Searching #{search_key_word} on google..."
+    end
+    puts('-----------------------------------------------')
+    puts response
+    convert_text_to_speech(response,text_to_speech_settings)
+    file = File.new('search_result.json','w')
+    file.puts serpapi_response
+    file.close()
+    # if body[]
+
 end
 
 def process_responses(responses,text_to_speech_settings)
 	num_chars_printed = 0
     for response in responses
+        puts response
+        puts '------'
         if response.results.length == 0
             next
 		end
@@ -220,8 +279,8 @@ def process_responses(responses,text_to_speech_settings)
                 add_item_to_shopping_list(match["item"],text_to_speech_settings)
             elsif transcript.match(/what .+ shopping list/)
                 get_shopping_list(text_to_speech_settings)
-            # elsif match = transcript.match(/.+(?<search_keyword>what|how|where|when.+))
-            #     search(match['search_keyword'],text_to_speech_settings)
+            elsif match = transcript.match(/(?<search_keyword>(who|what|how|when|where|are|is).+)/)
+                search(match['search_keyword'],text_to_speech_settings)
             end
             # Exit recognition if any of the transcribed phrases could be
             # one of our keywords.
@@ -236,7 +295,7 @@ def process_responses(responses,text_to_speech_settings)
 end
 
 def main
-    speech_to_text_client , speech_to_text_config = set_up_speech_to_text(:LINEAR16, 16_000, "en-US", true, true)
+    speech_to_text_client , speech_to_text_config = set_up_speech_to_text(:LINEAR16, 16_000, "en-US", true, false)
     text_to_speech_settings = set_up_text_to_speech("en-US","en-GB-Wavenet-A",:LINEAR16)
 
 
@@ -253,3 +312,4 @@ def main
 end
 
 main()
+

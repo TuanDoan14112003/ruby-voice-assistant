@@ -1,0 +1,625 @@
+{
+  "search_metadata": {
+    "id": "6280f29cc90e0a60af7ca2a9",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/1e7e0a968a47f28c/6280f29cc90e0a60af7ca2a9.json",
+    "created_at": "2022-05-15 12:31:24 UTC",
+    "processed_at": "2022-05-15 12:31:24 UTC",
+    "google_url": "https://www.google.com/search?q=what+is+mcdonald%27s&oq=what+is+mcdonald%27s&gl=au&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/1e7e0a968a47f28c/6280f29cc90e0a60af7ca2a9.html",
+    "total_time_taken": 0.98
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "what is mcdonald's",
+    "google_domain": "google.com",
+    "gl": "au",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "query_displayed": "what is mcdonald's",
+    "total_results": 907000000,
+    "time_taken_displayed": 0.77
+  },
+  "knowledge_graph": {
+    "title": "McDonald's",
+    "type": "Fast food company",
+    "image": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/dec64c7ad51df69484c852b77195fa059dfc71e5e0fb11da.png",
+    "website": "https://www.mcdonalds.com/us/en-us.html",
+    "description": "McDonald's Corporation is an American multinational fast food corporation, founded in 1940 as a restaurant operated by Richard and Maurice McDonald, in San Bernardino, California, United States.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/McDonald's"
+    },
+    "stock_price": "MCD (NYSE) USD 245.04 +0.85 (+0.35%)13 May, 4 - 00 pm GMT-4 - Disclaimer",
+    "stock_price_links": [
+      {
+        "text": "Stock price",
+        "link": "https://www.google.com/search?gl=au&q=mcdonalds+stock+price&stick=H4sIAAAAAAAAAONgecRoyi3w8sc9YSmdSWtOXmNU4-IKzsgvd80rySypFJLgYoOy-KR4uLj0c_UNzKuyi5LzeBaxiuYmp-TnJeakFCsUl-QnZysUFGUmpwIAfGZaGlIAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q6BN6BAhgEAI"
+      },
+      {
+        "text": "MCD",
+        "link": "https://www.google.com/search?gl=au&q=NYSE:+MCD&stick=H4sIAAAAAAAAAONgecRoyi3w8sc9YSmdSWtOXmNU4-IKzsgvd80rySypFJLgYoOy-KR4uLj0c_UNzKuyi5LzeBaxcvpFBrtaKfg6uwAAIRpEw0YAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94QsRV6BAhgEAM"
+      },
+      {
+        "text": "Disclaimer",
+        "link": "https://www.google.com/intl/en-AU_AU/googlefinance/disclaimer/"
+      }
+    ],
+    "founder": "Ray Kroc",
+    "founder_links": [
+      {
+        "text": "Founder",
+        "link": "https://www.google.com/search?gl=au&q=mcdonalds+founder&stick=H4sIAAAAAAAAAOPgE-LUz9U3ME-vLDDXUs9OttJPKi3OzEstLoYz4vMLUosSSzLz86zS8kvzUlKLFrEK5ian5Ocl5qQUK0DFAIL4DFFKAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q6BMoAHoECFwQAg"
+      },
+      {
+        "text": "Ray Kroc",
+        "link": "https://www.google.com/search?gl=au&q=Ray+Kroc&stick=H4sIAAAAAAAAAOPgE-LUz9U3ME-vLDBXAjMN80xSyrTUs5Ot9JNKizPzUouL4Yz4_ILUosSSzPw8q7T80ryU1KJFrBxBiZUK3kX5yTtYGXexM3EwAABgC_DJVAAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94QmxMoAXoECFwQAw"
+      }
+    ],
+    "founded": "15 April 1955, San Bernardino, California, United States",
+    "founded_links": [
+      {
+        "text": "Founded",
+        "link": "https://www.google.com/search?gl=au&q=mcdonalds+founded&stick=H4sIAAAAAAAAAOPgE-LUz9U3ME-vLDDXUs1OttLPL0pPzMusSizJzM9D4Vil5ZfmpaSmLGIVzE1Oyc9LzEkpVoCKAQAMlvExSAAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q6BMoAHoECFQQAg"
+      },
+      {
+        "text": "San Bernardino, California, United States",
+        "link": "https://www.google.com/search?gl=au&q=San+Bernardino&stick=H4sIAAAAAAAAAOPgE-LUz9U3ME-vLDBX4gAxi0wKC7VUs5Ot9POL0hPzMqsSSzLz81A4Vmn5pXkpqSmLWPmCE_MUnFKL8hKLUjLz8newMu5iZ-JgAACDE1VXVwAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94QmxMoAXoECFQQAw"
+      }
+    ],
+    "headquarters": "Chicago, Illinois, United States",
+    "headquarters_links": [
+      {
+        "text": "Headquarters",
+        "link": "https://www.google.com/search?gl=au&q=mcdonalds+headquarters&stick=H4sIAAAAAAAAAOPgE-LUz9U3ME-vLDDX0spOttLPL0pPzMusSizJzM9D4VhlpCamFJYmFpWkFhUvYhXLTU7Jz0vMSSlWQJYAADo2E7FSAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q6BMoAHoECFgQAg"
+      },
+      {
+        "text": "Chicago, Illinois, United States",
+        "link": "https://www.google.com/search?gl=au&q=Chicago&stick=H4sIAAAAAAAAAOPgE-LUz9U3ME-vLDBX4gAxDeNTTLS0spOt9POL0hPzMqsSSzLz81A4VhmpiSmFpYlFJalFxYtY2Z0zMpMT0_N3sDLuYmfiYAAA0oBF9VUAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94QmxMoAXoECFgQAw"
+      }
+    ],
+    "ceo": "Chris Kempczinski (4 Nov 2019–)",
+    "ceo_links": [
+      {
+        "text": "CEO",
+        "link": "https://www.google.com/search?gl=au&q=mcdonalds+ceo&stick=H4sIAAAAAAAAAOPgE-LUz9U3ME-vLDDXUsxOttLPL0pPzMusSizJzM9D4Vglp-YvYuXNTU7Jz0vMSSlWAPIB83Xpe0AAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q6BMoAHoECFkQAg"
+      },
+      {
+        "text": "Chris Kempczinski",
+        "link": "https://www.google.com/search?gl=au&q=Chris+Kempczinski&stick=H4sIAAAAAAAAAOPgE-LUz9U3ME-vLDBX4tVP1zc0zDIorCwoTEnTUsxOttLPL0pPzMusSizJzM9D4Vglp-YvYhV0zijKLFbwTs0tSK7KzCvOztzByriLnYmDAQD5rpAqWwAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94QmxMoAXoECFkQAw"
+      }
+    ],
+    "revenue": "21.08 billion USD (2019)",
+    "revenue_links": [
+      {
+        "text": "Revenue",
+        "link": "https://www.google.com/search?gl=au&q=mcdonalds+revenue&stick=H4sIAAAAAAAAAOPgE-LUz9U3ME-vLDDXUskot9JPzs_JSU0uyczP088vSk_My6xKBHGKrYpSy1LzSlMXsQrmJqfk5yXmpBQrQMUAX3ufBUcAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q6BMoAHoECFYQAg"
+      }
+    ],
+    "subsidiaries": "McCafé, McDonald's Restaurants, MORE",
+    "subsidiaries_links": [
+      {
+        "text": "Subsidiaries",
+        "link": "https://www.google.com/search?gl=au&q=mcdonalds+subsidiaries&stick=H4sIAAAAAAAAAOPgE-LUz9U3ME-vLDDX0swot9JPzs_JSU0uyczP088vSk_My6xKBHGKrYpLk4ozUzITizJTixexiuUmp-TnJeakFCsgSwAAuyZNMVEAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q6BMoAHoECFsQAg"
+      },
+      {
+        "text": "McCafé",
+        "link": "https://www.google.com/search?gl=au&q=McCaf%C3%A9&stick=H4sIAAAAAAAAAOPgE-LUz9U3ME-vLDBX4gIxjfNyq8oNtTQzyq30k_NzclKTSzLz8_Tzi9IT8zKrEkGcYqvi0qTizJTMxKLM1OJFrOy-yc6JaYdX7mBl3MXOxMEIAEusDe5WAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94QmxMoAXoECFsQAw"
+      },
+      {
+        "text": "McDonald's Restaurants",
+        "link": "https://www.google.com/search?gl=au&q=McDonald%27s+Restaurants&stick=H4sIAAAAAAAAAOPgE-LUz9U3ME-vLDBX4gIxLXPNMrJTtDQzyq30k_NzclKTSzLz8_Tzi9IT8zKrEkGcYqvi0qTizJTMxKLM1OJFrGK-yS75eYk5KerFCkGpxSWJpUWJeSXFO1gZd7EzcTACABvNd0FlAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94QmxMoAnoECFsQBA"
+      },
+      {
+        "text": "MORE",
+        "link": "https://www.google.com/search?gl=au&q=mcdonalds+subsidiaries&stick=H4sIAAAAAAAAAOPgE-LUz9U3ME-vLDDX0swot9JPzs_JSU0uyczP088vSk_My6xKBHGKrYpLk4ozUzITizJTixexiuUmp-TnJeakFCsgSwAAuyZNMVEAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q44YBKAN6BAhbEAU"
+      }
+    ],
+    "video_games": [
+      {
+        "name": "Happy Meal App",
+        "link": "https://www.google.com/search?gl=au&q=Happy+Meal+App&stick=H4sIAAAAAAAAAONgFuLUz9U3ME-vLDBX4tVP1zc0TDaqNC8oyyrTEgnLTEnNd0_MTfVNzE4tCgEzF7HyeSQWFFQq-KYm5ig4FhTsYGUEAEADxo9GAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94QxA16BAhaEAQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=Happy+Meal+App&stick=H4sIAAAAAAAAAONgFuLUz9U3ME-vLDBX4tVP1zc0TDaqNC8oyyrTEgnLTEnNd0_MTfVNzE4tCgEzF7HyeSQWFFQq-KYm5ig4FhTsYGUEAEADxo9GAAAA",
+        "image": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/dec64c7ad51df69484c852b77195fa059ec6e056b2548e69ac98edf907de58f84d4716fc21243ff4.png"
+      },
+      {
+        "name": "The Lost Ring",
+        "link": "https://www.google.com/search?gl=au&q=The+Lost+Ring&stick=H4sIAAAAAAAAAONgFuLUz9U3ME-vLDBX4gIxjcszLPIKtETCMlNS890Tc1N9E7NTi0LAzEWsvCEZqQo--cUlCkGZeek7WBkBpQlw6UIAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94QxA16BAhaEAY",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=The+Lost+Ring&stick=H4sIAAAAAAAAAONgFuLUz9U3ME-vLDBX4gIxjcszLPIKtETCMlNS890Tc1N9E7NTi0LAzEWsvCEZqQo--cUlCkGZeek7WBkBpQlw6UIAAAA",
+        "image": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/dec64c7ad51df69484c852b77195fa059ec6e056b2548e6905416b89d130bd55045a11727bbc0bba.jpeg"
+      }
+    ],
+    "video_games_link": "https://www.google.com/search?gl=au&q=mcdonalds+video+games&stick=H4sIAAAAAAAAAONgFuLUz9U3ME-vLDBXQjC1JLKTrfSTy9L10xNzU-NzE7NTi6xAzOJFrKK5ySn5eYk5KcUKZZkpqfkKYPEdrIwApdSmLk0AAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94QMSgAegQIWhAB",
+    "video_games_stick": "H4sIAAAAAAAAAONgFuLUz9U3ME-vLDBXQjC1JLKTrfSTy9L10xNzU-NzE7NTi6xAzOJFrKK5ySn5eYk5KcUKZZkpqfkKYPEdrIwApdSmLk0AAAA",
+    "profiles": [
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/McDonalds",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=what+is+mcdonald%27s",
+        "image": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/dec64c7ad51df69484c852b77195fa05e5cd796d7c9ce2851c25fd896bc6aae0fb3c1a19a4bccb4a.png"
+      },
+      {
+        "name": "Instagram",
+        "link": "https://www.instagram.com/McDonalds",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=what+is+mcdonald%27s",
+        "image": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/dec64c7ad51df69484c852b77195fa05e5cd796d7c9ce285846a06504d1d5bb076eee095c0e507e2.png"
+      },
+      {
+        "name": "Facebook",
+        "link": "https://www.facebook.com/McDonalds",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=what+is+mcdonald%27s",
+        "image": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/dec64c7ad51df69484c852b77195fa05e5cd796d7c9ce2859202d288bd85590d2a2792bda0becfaa.png"
+      },
+      {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/company/mcdonald%27s-corporation",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=what+is+mcdonald%27s",
+        "image": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/dec64c7ad51df69484c852b77195fa05e5cd796d7c9ce285d4e08d6cc76e33b6b4905fd1c635841f.png"
+      },
+      {
+        "name": "Pinterest",
+        "link": "https://www.pinterest.com/mcdonalds",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=what+is+mcdonald%27s",
+        "image": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/dec64c7ad51df69484c852b77195fa05e5cd796d7c9ce285d7f5d18501cdd1d347ab9c82b7f568a0.png"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Burger King",
+        "link": "https://www.google.com/search?gl=au&q=Burger+King&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgAqXlNVec6nHaVM_s-PPPLVNp_6npnO-T2BxWplhdiHHW3uxhWdtWGYq_Cd_T-6idx2iHtie1GHq350yYNoXa9M0W6XEWt4L4bxn-ZXAfqpnU7HixFykfqAz8sdRTVUbttBlU3MTS6yAHTWo1vWZHGLJetKpmZGidpw51DuH13dotj90y6TNoBpFE8j73GqU6LEOqBrN1zywNGHqX8W0rJyIq4pTsxWWH2P1icdudzbKN0Hhx068NG0A4obX0KW67_Of4Sc%3D&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94QxA16BAhXEAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=Burger+King&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgAqXlNVec6nHaVM_s-PPPLVNp_6npnO-T2BxWplhdiHHW3uxhWdtWGYq_Cd_T-6idx2iHtie1GHq350yYNoXa9M0W6XEWt4L4bxn-ZXAfqpnU7HixFykfqAz8sdRTVUbttBlU3MTS6yAHTWo1vWZHGLJetKpmZGidpw51DuH13dotj90y6TNoBpFE8j73GqU6LEOqBrN1zywNGHqX8W0rJyIq4pTsxWWH2P1icdudzbKN0Hhx068NG0A4obX0KW67_Of4Sc%3D",
+        "image": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/dec64c7ad51df69484c852b77195fa058819220fd7cc49b4e8421d6b99a98f357f099ac1d4b87e12d79a3b43f9765148.png"
+      },
+      {
+        "name": "Taco Bell",
+        "link": "https://www.google.com/search?gl=au&q=Taco+Bell&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdbpa__IYtKoRiUNnZ-YOQwWfitwi7JczbQTUp8yL8D2fW1e03ZQyQSD_JRnKvGInhu4wvoCGlTRMFTS0vW467d9FEmbtQXScee14z5Htqwz0M3Hj3LemnSy3l5gIZMLPZAtMHf928cPnjlAT1xJuxgYb48g1a0pttB0tsNp4fLJwVAnow_zYt0FVYZN6IHyvSV3Lg49f7N1-ag_Ky0MVIG-M4WbWrVTPwKR4c4W3t0rlh7QIzDdjW-knlkJr7KusZxiqb8A%3D&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94QxA16BAhXEAc",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=Taco+Bell&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdbpa__IYtKoRiUNnZ-YOQwWfitwi7JczbQTUp8yL8D2fW1e03ZQyQSD_JRnKvGInhu4wvoCGlTRMFTS0vW467d9FEmbtQXScee14z5Htqwz0M3Hj3LemnSy3l5gIZMLPZAtMHf928cPnjlAT1xJuxgYb48g1a0pttB0tsNp4fLJwVAnow_zYt0FVYZN6IHyvSV3Lg49f7N1-ag_Ky0MVIG-M4WbWrVTPwKR4c4W3t0rlh7QIzDdjW-knlkJr7KusZxiqb8A%3D",
+        "image": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/dec64c7ad51df69484c852b77195fa058819220fd7cc49b4e8421d6b99a98f352ed959c25b706577e39c7ff2b7854576.png"
+      },
+      {
+        "name": "Wendy's Company",
+        "link": "https://www.google.com/search?gl=au&q=Wendys&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcbrXyjj39GMGeHNr0AbNmpS9BWHDutltfguo7QFVK997r-TaHTTaWlltwMBxPDFgyPZF0qN-FV0yr-PuAzPTDZPicbNX3_9wy9j8vuzvNjnbByQat4ytTwVPDGV1iL0tT9QuJdhxklH6Xdkx72j52SGEqwBISOSPFTWGCR7s7YBflz3WT5G_CxjAFevZK3bYXuxFAaiuaxszetnyOgDBdLOQvh-OQCaI7ZrEH_Z9_zkVuXcMKWQ4l0Csbj8A9D1S1yifgtyQ%3D&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94QxA16BAhXEAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=Wendys&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcbrXyjj39GMGeHNr0AbNmpS9BWHDutltfguo7QFVK997r-TaHTTaWlltwMBxPDFgyPZF0qN-FV0yr-PuAzPTDZPicbNX3_9wy9j8vuzvNjnbByQat4ytTwVPDGV1iL0tT9QuJdhxklH6Xdkx72j52SGEqwBISOSPFTWGCR7s7YBflz3WT5G_CxjAFevZK3bYXuxFAaiuaxszetnyOgDBdLOQvh-OQCaI7ZrEH_Z9_zkVuXcMKWQ4l0Csbj8A9D1S1yifgtyQ%3D",
+        "image": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/dec64c7ad51df69484c852b77195fa058819220fd7cc49b4e8421d6b99a98f357650ab7b7af6e926c100e902c08f63c0.png"
+      },
+      {
+        "name": "MOS Burger",
+        "link": "https://www.google.com/search?gl=au&q=MOS+Burger&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgM1j6hyuBKBuFDrTR0FYRL-3BWnQXv7rLaU8bAc6a-ZZxXHFvXTyCZBsdbelczib6T9VuTOKQOzUmZgTmLjc1whgD_NGx-xhP-BetCaKtqZU0yKm-q_IhsSabMMzCxiyBoAafEYoHoRpyw93hfdY2x3nyDzgLmYFtbFQKEf4q1h1ENsaPgFv28uLOusYsYcgR4zmyR0UFboih7FgnWLqwrL1UQUl3nys14R_8IatnRC3N5g9D5iBMD6BGZdzELgJoB_XH3c%3D&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94QxA16BAhXEAs",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=MOS+Burger&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgM1j6hyuBKBuFDrTR0FYRL-3BWnQXv7rLaU8bAc6a-ZZxXHFvXTyCZBsdbelczib6T9VuTOKQOzUmZgTmLjc1whgD_NGx-xhP-BetCaKtqZU0yKm-q_IhsSabMMzCxiyBoAafEYoHoRpyw93hfdY2x3nyDzgLmYFtbFQKEf4q1h1ENsaPgFv28uLOusYsYcgR4zmyR0UFboih7FgnWLqwrL1UQUl3nys14R_8IatnRC3N5g9D5iBMD6BGZdzELgJoB_XH3c%3D",
+        "image": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/dec64c7ad51df69484c852b77195fa058819220fd7cc49b4e8421d6b99a98f35408ff3f4e57a94dfb6b45d0bff3676d8.png"
+      }
+    ],
+    "people_also_search_for_link": "https://www.google.com/search?gl=au&q=McDonalds&stick=H4sIAAAAAAAAAONgFuLUz9U3ME-vLDBXQjC1BIMzU1LLEyuL_VIrSoJLUguKF7Fy-ia75Ocl5qQU72BlBADVqb-AOgAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94QMSgAegQIVxAB",
+    "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3ME-vLDBXQjC1BIMzU1LLEyuL_VIrSoJLUguKF7Fy-ia75Ocl5qQU72BlBADVqb-AOgAAAA"
+  },
+  "twitter_results": {
+    "link": "https://twitter.com/McDonalds/status/1524761077300568064?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+    "tweets": [
+      {
+        "link": "https://twitter.com/McDonalds/status/1524761077300568064?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+        "snippet": "i had a nightmare i was ratio’d",
+        "published_date": "3 days ago"
+      },
+      {
+        "link": "https://twitter.com/McDonalds/status/1524405167810138114?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+        "snippet": "this is where i tweet from",
+        "thumbnail": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/97406f90d068dd4b5224ab289cabf8a3e440ae15d470e2fb433473ab7a38f817997944a121bc5fea.jpeg",
+        "published_date": "4 days ago"
+      },
+      {
+        "link": "https://twitter.com/McDonalds/status/1521143128073424897?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+        "snippet": "you: im at mcdonald’s me: no im @McDonalds",
+        "published_date": "2 May 2022"
+      }
+    ]
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "What is McDonald's Business Model?",
+      "link": "https://www.youtube.com/watch?v=p1Vy9AYNoWE",
+      "thumbnail": "https://i.ytimg.com/vi/p1Vy9AYNoWE/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3kn5JSbAuRQU4ve0Ih1bUWGzqcejQ",
+      "channel": "Management Consulted",
+      "duration": "10:30",
+      "platform": "YouTube",
+      "date": "9 Apr 2021"
+    },
+    {
+      "position": 2,
+      "title": "This Is Why McDonald's Burgers Are So Delicious",
+      "link": "https://www.youtube.com/watch?v=LQmU4QQgAxQ",
+      "thumbnail": "https://i.ytimg.com/vi/LQmU4QQgAxQ/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3mcCsTZNIPMRtIJ3RKwErOzE59Qeg",
+      "channel": "Mashed",
+      "duration": "10:29",
+      "platform": "YouTube",
+      "date": "12 Oct 2020"
+    },
+    {
+      "position": 3,
+      "title": "Why is McDonald's so cheap?",
+      "link": "https://www.youtube.com/watch?v=U-LFI7CAfcg",
+      "thumbnail": "https://i.ytimg.com/vi/U-LFI7CAfcg/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3mURBMgpkuzWVFhKlhWmmdDyKbKBA",
+      "channel": "Our Changing Climate",
+      "duration": "12:34",
+      "platform": "YouTube",
+      "date": "5 June 2020"
+    }
+  ],
+  "inline_people_also_search_for": [
+    {
+      "title": "Fast food companies",
+      "items": [
+        {
+          "name": "Burger King",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQkmtNPIo4WhNZc4VWtMwCZhlhdq8Q3qXaRjIp&s=0",
+          "link": "https://www.google.com/search?gl=au&q=Burger+King&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDQzMCw0Ek5LLC5RSMvPT1FIzs8tSMzLTC2OEirPSCxRyCxWyE1Oyc9LzElRLz7FiNB0ipEDxLZMTjeDMZPMSk4xcoGYJnlGOSXpUOXGyTnluVC2UXJySSHcGIu0FLgxaXBhi-T4IqhwmnmhyS9GYTdM5y1i5XYqLUpPLVLwzsxLv8UmyWD6sZWpxn_C0ZuStSyRUicqPRYaSHDHGsYAAC9E-ezrAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Qs9oBKAB6BAgoEAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=Burger+King&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDQzMCw0Ek5LLC5RSMvPT1FIzs8tSMzLTC2OEirPSCxRyCxWyE1Oyc9LzElRLz7FiNB0ipEDxLZMTjeDMZPMSk4xcoGYJnlGOSXpUOXGyTnluVC2UXJySSHcGIu0FLgxaXBhi-T4IqhwmnmhyS9GYTdM5y1i5XYqLUpPLVLwzsxLv8UmyWD6sZWpxn_C0ZuStSyRUicqPRYaSHDHGsYAAC9E-ezrAAAA"
+        },
+        {
+          "name": "Taco Bell",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJE6ahvyJ_aO80Qs-lHMDVq2UC2pAhiGh2VsP8&s=0",
+          "link": "https://www.google.com/search?gl=au&q=Taco+Bell&stick=H4sIAAAAAAAAAOOQUeLQz9U3sExONzMSTkssLlFIy89PUUjOzy1IzMtMLY4SKs9ILFHILFbITU7Jz0vMSVEvPsXICdJjaGZgWHiKEa4fxkwyKznFyAVimuQZ5ZSkQ5UbJ-eU50LZRsnJJYVwYyzSUuDGpMGFLZLji6DCaeaFJr8Yhd0wnbeIlTMkMTlfwSk1J-cWmySD6cdWphr_CUdvStayREqdqPRYaCDBHWsYAwBb6qJr6AAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Qs9oBKAF6BAgoEAM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=Taco+Bell&stick=H4sIAAAAAAAAAOOQUeLQz9U3sExONzMSTkssLlFIy89PUUjOzy1IzMtMLY4SKs9ILFHILFbITU7Jz0vMSVEvPsXICdJjaGZgWHiKEa4fxkwyKznFyAVimuQZ5ZSkQ5UbJ-eU50LZRsnJJYVwYyzSUuDGpMGFLZLji6DCaeaFJr8Yhd0wnbeIlTMkMTlfwSk1J-cWmySD6cdWphr_CUdvStayREqdqPRYaCDBHWsYAwBb6qJr6AAAAA"
+        },
+        {
+          "name": "KFC",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT63_9q2gwqgVDTqq5dZyoVudKvYhVNhbWOmAt6&s=0",
+          "link": "https://www.google.com/search?gl=au&q=KFC&stick=H4sIAAAAAAAAAOOQUeLQz9U3sEwyKzESTkssLlFIy89PUUjOzy1IzMtMLY4SKs9ILFHILFbITU7Jz0vMSVEvPsXICdJjaGZgWHiKEaI_Od0MxgQadYqRC8Q0yTPKKUmHKjdOzinPhbKNkpNLCuHGWKSlwI1JgwtbJMcXQYXTzAtNfjEKu2E6bxErs7eb8y02SQbTj61MNf4Tjt6UrGWJlDpR6bHQQII71jAGADc_LFziAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Qs9oBKAJ6BAgoEAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=KFC&stick=H4sIAAAAAAAAAOOQUeLQz9U3sEwyKzESTkssLlFIy89PUUjOzy1IzMtMLY4SKs9ILFHILFbITU7Jz0vMSVEvPsXICdJjaGZgWHiKEaI_Od0MxgQadYqRC8Q0yTPKKUmHKjdOzinPhbKNkpNLCuHGWKSlwI1JgwtbJMcXQYXTzAtNfjEKu2E6bxErs7eb8y02SQbTj61MNf4Tjt6UrGWJlDpR6bHQQII71jAGADc_LFziAAAA"
+        },
+        {
+          "name": "Wendy's Company",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA023FUOO-6kTklA2PvkoLHjK509z4gz9BLhSH&s=0",
+          "link": "https://www.google.com/search?gl=au&q=Wendys&stick=H4sIAAAAAAAAAOOQUeLSz9U3MMkzyilJNxJOSywuUUjLz09RSM7PLUjMy0wtjhIqz0gsUcgsVshNTsnPS8xJUS8-xcgJ0mVoZmBYeIqRA8S2TE43gzGTzEpOMSKZC1VunJxTngtlGyUnlxTCjbFIS4EbkwYXtkiOL4IKp5kXmvxiFHbDdN4iVrbw1LyUyuJbbJIMph9bmWr8Jxy9KVnLEil1otJjoYEEd6xhDAAY7Y6D5wAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Qs9oBKAN6BAgoEAU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=Wendys&stick=H4sIAAAAAAAAAOOQUeLSz9U3MMkzyilJNxJOSywuUUjLz09RSM7PLUjMy0wtjhIqz0gsUcgsVshNTsnPS8xJUS8-xcgJ0mVoZmBYeIqRA8S2TE43gzGTzEpOMSKZC1VunJxTngtlGyUnlxTCjbFIS4EbkwYXtkiOL4IKp5kXmvxiFHbDdN4iVrbw1LyUyuJbbJIMph9bmWr8Jxy9KVnLEil1otJjoYEEd6xhDAAY7Y6D5wAAAA"
+        },
+        {
+          "name": "Domino's Pizza",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQwhIqWa5PxVd6amM_d4dBSXhqkNFGZSrTNgWH&s=0",
+          "link": "https://www.google.com/search?gl=au&q=dominos&stick=H4sIAAAAAAAAAOOQUeLUz9U3ME7OKc81Ek5LLC5RSMvPT1FIzs8tSMzLTC2OEirPSCxRyCxWyE1Oyc9LzElRLz7FCNZkaGZgWHiKkQPEtkxON4Mxk8xKTjFygZgmeUY5JelQ5WA7oGyj5OSSQrgxFmkpcGPS4MIWyfFFUOE080KTX4zCbpjOW8TKnpKfm5mXX3yLTZLB9GMrU43_hKM3JWtZIqVOVHosNJDgjjWMAQDUTGwG5wAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Qs9oBKAR6BAgoEAY",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=dominos&stick=H4sIAAAAAAAAAOOQUeLUz9U3ME7OKc81Ek5LLC5RSMvPT1FIzs8tSMzLTC2OEirPSCxRyCxWyE1Oyc9LzElRLz7FCNZkaGZgWHiKkQPEtkxON4Mxk8xKTjFygZgmeUY5JelQ5WA7oGyj5OSSQrgxFmkpcGPS4MIWyfFFUOE080KTX4zCbpjOW8TKnpKfm5mXX3yLTZLB9GMrU43_hKM3JWtZIqVOVHosNJDgjjWMAQDUTGwG5wAAAA"
+        },
+        {
+          "name": "Chick‑fil‑A",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoConm5ffVXfdXZugdKHo-9KHsZzwvgODmODS4&s=0",
+          "link": "https://www.google.com/search?gl=au&q=Chick-fil-A&stick=H4sIAAAAAAAAAOOQUeLUz9U3MEpOLik0Ek5LLC5RSMvPT1FIzs8tSMzLTC2OEirPSCxRyCxWyE1Oyc9LzElRLz7FCNZkaGZgWHiKkQPEtkxON4Mxk8xKTjFygZgmeUY5JelQ5cbJOeW5UDbYPrgxFmkpcGPS4MIWyfFFUOE080KTX4zCbpjOW8TK7ZyRmZytm5aZo-t4i02SwfRjK1ON_4SjNyVrWSKlTlR6LDSQ4I41jAEAKlXJW-sAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Qs9oBKAV6BAgoEAc",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=Chick-fil-A&stick=H4sIAAAAAAAAAOOQUeLUz9U3MEpOLik0Ek5LLC5RSMvPT1FIzs8tSMzLTC2OEirPSCxRyCxWyE1Oyc9LzElRLz7FCNZkaGZgWHiKkQPEtkxON4Mxk8xKTjFygZgmeUY5JelQ5cbJOeW5UDbYPrgxFmkpcGPS4MIWyfFFUOE080KTX4zCbpjOW8TK7ZyRmZytm5aZo-t4i02SwfRjK1ON_4SjNyVrWSKlTlR6LDSQ4I41jAEAKlXJW-sAAAA"
+        }
+      ],
+      "see_more_link": "https://www.google.com/search?gl=au&q=Fast+food+companies&stick=H4sIAAAAAAAAAOOQMRJOSywuUUjLz09RSM7PLUjMy0wtjhIqz0gsUcgsVshNTsnPS8xJUS8-xcipn6tvYGhmYFh4ipEDxLZMTjeDMZPMSk4xcoGYJnlGOSXpUOXGyTnluVC2UXJySSHcGIu0FLgxaXBhi-T4IqhwmnmhyS9GYTdM5y1ixSZ6i02SwfRjK1ON_4SjNyVrWSKlTlR6LDSQ4I41jAEADR1CV-gAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q4qYDegQIKBAI",
+      "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=Fast+food+companies&stick=H4sIAAAAAAAAAOOQMRJOSywuUUjLz09RSM7PLUjMy0wtjhIqz0gsUcgsVshNTsnPS8xJUS8-xcipn6tvYGhmYFh4ipEDxLZMTjeDMZPMSk4xcoGYJnlGOSXpUOXGyTnluVC2UXJySSHcGIu0FLgxaXBhi-T4IqhwmnmhyS9GYTdM5y1ixSZ6i02SwfRjK1ON_4SjNyVrWSKlTlR6LDSQ4I41jAEADR1CV-gAAAA"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is McDonald's known for?",
+      "snippet": "McDonald's, in full McDonald's Corporation, American fast-food chain that is one of the largest in the world, known for its hamburgers, especially its Big Macs. Company headquarters are in Chicago.",
+      "title": "McDonald's | History, Ray Kroc, & Facts - Encyclopedia ...",
+      "link": "https://www.britannica.com/topic/McDonalds",
+      "displayed_link": "https://www.britannica.com › ... › Leisure & Nightlife"
+    },
+    {
+      "question": "What does McDonald's stand for?",
+      "snippet": "The logo for McDonald's is the golden arches of the letter M on a red background. The M stands for McDonald's, but the rounded m represents mummy's mammaries, acccording the design consultant and psychologist Louis Cheskin.",
+      "title": "The M stands for McDonald's, but the rounded m represents ... - BBC",
+      "link": "https://www.bbc.co.uk/worldservice/specials/1616_fastfood/page6.shtml",
+      "displayed_link": "https://www.bbc.co.uk › specials › 1616_fastfood › page6"
+    },
+    {
+      "question": "What are 3 facts about mcdonalds?",
+      "title": "12 Hard-To-Believe Facts About McDonald's",
+      "link": "https://spoonuniversity.com/place/crazy-facts-about-mcdonalds-you-will-not-believe",
+      "list": [
+        "A New McDonald's Opens Every 14.5 Hours. ... ",
+        "The Caesar Salad is More Fattening than their Hamburger. ... ",
+        "More People Eat at McDonald's Each Day than the Entire Population of the UK. ... ",
+        "They Are the World's Largest Toy Distributor. ... ",
+        "The McDonald's Arch is More Recognizable than the Holy Cross."
+      ],
+      "displayed_link": "https://spoonuniversity.com › place › crazy-facts-about-m..."
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "McDonald's - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/McDonald%27s",
+      "displayed_link": "https://en.wikipedia.org › wiki › McDonald's",
+      "snippet": "McDonald's Corporation is an American multinational fast food corporation, founded in 1940 as a restaurant operated by Richard and Maurice McDonald, ...",
+      "snippet_highlighted_words": [
+        "McDonald's",
+        "McDonald"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "History",
+            "link": "https://en.wikipedia.org/wiki/History_of_McDonald%27s"
+          },
+          {
+            "title": "Richard and Maurice McDonald",
+            "link": "https://en.wikipedia.org/wiki/Richard_and_Maurice_McDonald"
+          },
+          {
+            "title": "Ray Kroc",
+            "link": "https://en.wikipedia.org/wiki/Ray_Kroc"
+          },
+          {
+            "title": "Chris Kempczinski",
+            "link": "https://en.wikipedia.org/wiki/Chris_Kempczinski"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "number_of_employees_approx": null,
+            "price": 32811,
+            "currency": "Total assets US$ billion ()",
+            "number_of_locations_restaurants": 38695
+          },
+          "extensions": [
+            "Number of employees: Approx. 200,000 (2020)",
+            "Net income: US$6.025 billion (2019)",
+            "Number of locations: 38,695 restaurants (2019)",
+            "Total assets: US$32.811 billion (2018)"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+          "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
+          "icon": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/53323849c459c5573214b95b207d8dcddac658eb2282bf92bcd307fcc5fe54e8b25f72d70cf66ec6ac149eb48200d895.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/McDonald%2527s&tbm=ilp&ilps=ADNMCi1pmk-V5dJTSfwVjRkAuT7IkvRmyA",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:tg3qNrQIjRwJ:https://en.wikipedia.org/wiki/McDonald%2527s+&cd=1&hl=en&ct=clnk&gl=au",
+      "related_pages_link": "https://www.google.com/search?gl=au&q=related:https://en.wikipedia.org/wiki/McDonald%2527s+what+is+mcdonald%27s"
+    },
+    {
+      "position": 2,
+      "title": "McDonald's | History, Ray Kroc, & Facts - Encyclopedia ...",
+      "link": "https://www.britannica.com/topic/McDonalds",
+      "displayed_link": "https://www.britannica.com › ... › Leisure & Nightlife",
+      "thumbnail": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/53323849c459c5573214b95b207d8dcda508505cd14036155c08c0d90cca5246.jpeg",
+      "snippet": "McDonald's, in full McDonald's Corporation, American fast-food chain that is one of the largest in the world, known for its hamburgers, especially its Big ...",
+      "snippet_highlighted_words": [
+        "McDonald's",
+        "McDonald's"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Expansion and products",
+            "link": "https://www.britannica.com/topic/McDonalds/Expansion-and-products"
+          },
+          {
+            "title": "Related content",
+            "link": "https://www.britannica.com/facts/McDonalds"
+          },
+          {
+            "title": "Ray Kroc",
+            "link": "https://www.britannica.com/biography/Ray-Kroc"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "date": 1955
+          },
+          "extensions": [
+            "Date: 1955",
+            "presentRelated People: Steve Easterbrook"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "britannica.com was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/53323849c459c5573214b95b207d8dcda36ea67188b24b1be236037afddb6c9e63ad33e42f302d3fa27f0b8da94ba425.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.britannica.com/topic/McDonalds&tbm=ilp&ilps=ADNMCi0FFVnm8PFiYvPDLE2i5ywJ2u6LrQ",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:FFypVodAc2AJ:https://www.britannica.com/topic/McDonalds+&cd=9&hl=en&ct=clnk&gl=au"
+    },
+    {
+      "position": 3,
+      "title": "About Us: McDonald's Facts and Story",
+      "link": "https://www.mcdonalds.com/us/en-us/about-us.html",
+      "displayed_link": "https://www.mcdonalds.com › en-us › about-us",
+      "thumbnail": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/53323849c459c5573214b95b207d8dcd39a7d5e6ee7289b3165451032aa41843.jpeg",
+      "snippet": "Back in 1954, a man named Ray Kroc discovered a small burger restaurant in California, and wrote the first page of our history. From humble beginnings as a ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Our History",
+            "link": "https://www.mcdonalds.com/us/en-us/about-us/our-history.html"
+          },
+          {
+            "title": "Values In Action",
+            "link": "https://www.mcdonalds.com/us/en-us/about-us/values-in-action.html"
+          },
+          {
+            "title": "Recalls & Alerts",
+            "link": "https://www.mcdonalds.com/us/en-us/about-us/recalls.html"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "McDonald's Corporation is an American multinational fast food corporation, founded in 1940 as a restaurant operated by Richard and Maurice McDonald, in San Bernardino, California, United States.",
+          "source_info_link": "https://en.wikipedia.org/wiki/McDonald's",
+          "icon": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/53323849c459c5573214b95b207d8dcd98422da03c854827cee23ad1a628a1ab26d7c796905494cdf0fc3bdae4fa18cc.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.mcdonalds.com/us/en-us/about-us.html&tbm=ilp&ilps=ADNMCi3uNYGaQWXJbHanhVJX1O1fsA1V8A",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:E-TkRGrN0bUJ:https://www.mcdonalds.com/us/en-us/about-us.html+&cd=10&hl=en&ct=clnk&gl=au",
+      "related_pages_link": "https://www.google.com/search?gl=au&q=related:https://www.mcdonalds.com/us/en-us/about-us.html+what+is+mcdonald%27s"
+    },
+    {
+      "position": 4,
+      "title": "Our Story | About Macca's | McDonald's AU",
+      "link": "https://mcdonalds.com.au/about-maccas/maccas-story",
+      "displayed_link": "https://mcdonalds.com.au › about-maccas › maccas-story",
+      "snippet": "McDonald's Australia Limited is an unlisted Australian public company. It's a franchise business with more than 80% of Australian restaurants owned and ...",
+      "snippet_highlighted_words": [
+        "McDonald's"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "mcdonalds.com.au was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/53323849c459c5573214b95b207d8dcd8b7409acb040aa44f92d6a76bf46cd39c7ee8243e0f28239bc2e2d6afd6f0661.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://mcdonalds.com.au/about-maccas/maccas-story&tbm=ilp&ilps=ADNMCi2CUlrAgzA8Kl1EMgrVOaW3eg-SBg",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:8NjOTROkPd4J:https://mcdonalds.com.au/about-maccas/maccas-story+&cd=11&hl=en&ct=clnk&gl=au",
+      "related_pages_link": "https://www.google.com/search?gl=au&q=related:https://mcdonalds.com.au/about-maccas/maccas-story+what+is+mcdonald%27s",
+      "related_results": [
+        {
+          "position": 1,
+          "title": "McDonald's Australia",
+          "link": "https://mcdonalds.com.au/",
+          "displayed_link": "https://mcdonalds.com.au",
+          "snippet": "The official website of Macca's® Australia. Whether you want the details of what's in your Big Mac®, or to find your nearest restaurant, this is the place ...",
+          "about_this_result": {
+            "source": {
+              "description": "mcdonalds.com.au was first indexed by Google more than 10 years ago",
+              "icon": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/53323849c459c5573214b95b207d8dcdb4c5fd0b3774156e291f9f16cc62b56c3c8b8793338fcd39d687f3a13dfdd0a830cdc4cdc82d567dd1e32f0d95408b66d5c673e835768b75.png"
+            }
+          },
+          "about_page_link": "https://www.google.com/search?q=About+https://mcdonalds.com.au/&tbm=ilp&ilps=ADNMCi1ReAUv94MiTfr4Nnj2RqyzFk_r2w",
+          "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:19X4m8Vp6AEJ:https://mcdonalds.com.au/+&cd=12&hl=en&ct=clnk&gl=au",
+          "related_pages_link": "https://www.google.com/search?gl=au&q=related:https://mcdonalds.com.au/+what+is+mcdonald%27s"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "title": "About: McDonald's - DBpedia",
+      "link": "https://dbpedia.org/page/McDonald's",
+      "displayed_link": "https://dbpedia.org › page › McDonald's",
+      "snippet": "McDonald's is an American fast food company, founded in 1940 as a restaurant operated by Richard and Maurice McDonald, in San Bernardino, California, ...",
+      "snippet_highlighted_words": [
+        "McDonald's",
+        "McDonald"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "DBpedia is a project aiming to extract structured content from the information created in the Wikipedia project. This structured information is made available on the World Wide Web.",
+          "source_info_link": "https://en.wikipedia.org/wiki/DBpedia",
+          "icon": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/53323849c459c5573214b95b207d8dcde6ea66958f091bf1a25f222c09a5bdda11fa15cdc2e425bca59dee1b6e04e9ac.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://dbpedia.org/page/McDonald's&tbm=ilp&ilps=ADNMCi18ujNIus-S6pK-HL3D_WONxRxwLw",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:JMBMVsQNfzsJ:https://dbpedia.org/page/McDonald%27s+&cd=13&hl=en&ct=clnk&gl=au"
+    },
+    {
+      "position": 6,
+      "title": "How McDonald's Makes Money: Franchising Fast Food",
+      "link": "https://www.investopedia.com/articles/markets/032015/how-mcdonalds-makes-its-money-mcd.asp",
+      "displayed_link": "https://www.investopedia.com › ... › Company Profiles",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7C1As6TNsgXzecRPQZrXLL_E6yyw_0iNzTaLh1XyfkpCVK2kIhnhR&usqp=CAE&s",
+      "snippet": "McDonald's makes money by leveraging its product, fast food, to franchisees who have to lease properties, often at large markups, that are owned by McDonald's.",
+      "snippet_highlighted_words": [
+        "McDonald's",
+        "McDonald's"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Investopedia is a financial website headquartered in New York City. Founded in 1999, Investopedia provides investment dictionaries, advice, reviews, ratings, and comparisons of financial products such as securities accounts.",
+          "source_info_link": "https://en.wikipedia.org/wiki/Investopedia",
+          "icon": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/53323849c459c5573214b95b207d8dcd7f4c6df82ec4a1d07e25888067fcc196276b2bb56ddca958c2e2d5333e115f35.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.investopedia.com/articles/markets/032015/how-mcdonalds-makes-its-money-mcd.asp&tbm=ilp&ilps=ADNMCi0Uiy8WoYluZ7ZBZsonbPkFuXcrEA",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:GubFn_cPEZIJ:https://www.investopedia.com/articles/markets/032015/how-mcdonalds-makes-its-money-mcd.asp+&cd=24&hl=en&ct=clnk&gl=au"
+    },
+    {
+      "position": 7,
+      "title": "What does mcdonald's mean? - Definitions.net",
+      "link": "https://www.definitions.net/definition/mcdonald%27s",
+      "displayed_link": "https://www.definitions.net › definition › mcdonald's",
+      "snippet": "McDonald's primarily sells hamburgers, cheeseburgers, chicken, french fries, breakfast items, soft drinks, milkshakes and desserts. In response to changing ...",
+      "snippet_highlighted_words": [
+        "McDonald's"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "definitions.net was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/53323849c459c5573214b95b207d8dcdc25569ffca81f89f01ea972f9c2bb2aae7c12c5f52f2e6fc0b86da46245765ca.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.definitions.net/definition/mcdonald%2527s&tbm=ilp&ilps=ADNMCi3MUiC8uAAvg0ugne9utXSHhoQShg",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:w_NC55s7kt0J:https://www.definitions.net/definition/mcdonald%2527s+&cd=25&hl=en&ct=clnk&gl=au"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "what is mcdonald's number",
+      "link": "https://www.google.com/search?gl=au&q=What+is+McDonald%27s+number&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q1QJ6BAhAEAE"
+    },
+    {
+      "query": "mcdonald's history",
+      "link": "https://www.google.com/search?gl=au&q=McDonald%27s+history&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q1QJ6BAg_EAE"
+    },
+    {
+      "query": "mcdonald's logo",
+      "link": "https://www.google.com/search?gl=au&q=McDonald%27s+logo&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q1QJ6BAg-EAE"
+    },
+    {
+      "query": "what is mcdonald's slogan",
+      "link": "https://www.google.com/search?gl=au&q=What+is+McDonald%27s+slogan&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q1QJ6BAg8EAE"
+    },
+    {
+      "query": "mcdonald's online",
+      "link": "https://www.google.com/search?gl=au&q=McDonald%27s+online&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q1QJ6BAg7EAE"
+    },
+    {
+      "query": "mcdonald's owner",
+      "link": "https://www.google.com/search?gl=au&q=McDonald%27s+owner&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q1QJ6BAg6EAE"
+    },
+    {
+      "query": "mcdonald's menu",
+      "link": "https://www.google.com/search?gl=au&q=McDonald%27s+menu&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q1QJ6BAg5EAE"
+    },
+    {
+      "query": "what is mcdonald's chicken nuggets made of",
+      "link": "https://www.google.com/search?gl=au&q=What+is+McDonald%27s+chicken+nuggets+made+of&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q1QJ6BAhBEAE"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=what+is+mcdonald%27s&gl=au&ei=nPKAYv7wOquk_QaehI_wDQ&start=10&sa=N&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q8NMDegQIAhBK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=what+is+mcdonald%27s&gl=au&ei=nPKAYv7wOquk_QaehI_wDQ&start=10&sa=N&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q8tMDegQIAhA4",
+      "3": "https://www.google.com/search?q=what+is+mcdonald%27s&gl=au&ei=nPKAYv7wOquk_QaehI_wDQ&start=20&sa=N&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q8tMDegQIAhA6",
+      "4": "https://www.google.com/search?q=what+is+mcdonald%27s&gl=au&ei=nPKAYv7wOquk_QaehI_wDQ&start=30&sa=N&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q8tMDegQIAhA8",
+      "5": "https://www.google.com/search?q=what+is+mcdonald%27s&gl=au&ei=nPKAYv7wOquk_QaehI_wDQ&start=40&sa=N&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q8tMDegQIAhA-",
+      "6": "https://www.google.com/search?q=what+is+mcdonald%27s&gl=au&ei=nPKAYv7wOquk_QaehI_wDQ&start=50&sa=N&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q8tMDegQIAhBA",
+      "7": "https://www.google.com/search?q=what+is+mcdonald%27s&gl=au&ei=nPKAYv7wOquk_QaehI_wDQ&start=60&sa=N&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q8tMDegQIAhBC",
+      "8": "https://www.google.com/search?q=what+is+mcdonald%27s&gl=au&ei=nPKAYv7wOquk_QaehI_wDQ&start=70&sa=N&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q8tMDegQIAhBE",
+      "9": "https://www.google.com/search?q=what+is+mcdonald%27s&gl=au&ei=nPKAYv7wOquk_QaehI_wDQ&start=80&sa=N&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q8tMDegQIAhBG",
+      "10": "https://www.google.com/search?q=what+is+mcdonald%27s&gl=au&ei=nPKAYv7wOquk_QaehI_wDQ&start=90&sa=N&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q8tMDegQIAhBI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=what+is+mcdonald%27s&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=what+is+mcdonald%27s&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=what+is+mcdonald%27s&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=what+is+mcdonald%27s&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=what+is+mcdonald%27s&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=what+is+mcdonald%27s&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=what+is+mcdonald%27s&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=what+is+mcdonald%27s&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=what+is+mcdonald%27s&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=what+is+mcdonald%27s&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=what+is+mcdonald%27s&start=90"
+    }
+  }
+}
