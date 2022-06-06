@@ -1,625 +1,534 @@
 {
   "search_metadata": {
-    "id": "6280f29cc90e0a60af7ca2a9",
+    "id": "629d5d2ca4bb38fa59d1dd1b",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/1e7e0a968a47f28c/6280f29cc90e0a60af7ca2a9.json",
-    "created_at": "2022-05-15 12:31:24 UTC",
-    "processed_at": "2022-05-15 12:31:24 UTC",
-    "google_url": "https://www.google.com/search?q=what+is+mcdonald%27s&oq=what+is+mcdonald%27s&gl=au&sourceid=chrome&ie=UTF-8",
-    "raw_html_file": "https://serpapi.com/searches/1e7e0a968a47f28c/6280f29cc90e0a60af7ca2a9.html",
-    "total_time_taken": 0.98
+    "json_endpoint": "https://serpapi.com/searches/4bd31475bb147c62/629d5d2ca4bb38fa59d1dd1b.json",
+    "created_at": "2022-06-06 01:49:32 UTC",
+    "processed_at": "2022-06-06 01:49:32 UTC",
+    "google_url": "https://www.google.com/search?q=who+is+the+first+president+of+america&oq=who+is+the+first+president+of+america&gl=au&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/4bd31475bb147c62/629d5d2ca4bb38fa59d1dd1b.html",
+    "total_time_taken": 1.31
   },
   "search_parameters": {
     "engine": "google",
-    "q": "what is mcdonald's",
+    "q": "who is the first president of america",
     "google_domain": "google.com",
     "gl": "au",
     "device": "desktop"
   },
   "search_information": {
     "organic_results_state": "Results for exact spelling",
-    "query_displayed": "what is mcdonald's",
-    "total_results": 907000000,
-    "time_taken_displayed": 0.77
+    "query_displayed": "who is the first president of america",
+    "total_results": 2430000000,
+    "time_taken_displayed": 0.79
   },
-  "knowledge_graph": {
-    "title": "McDonald's",
-    "type": "Fast food company",
-    "image": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/dec64c7ad51df69484c852b77195fa059dfc71e5e0fb11da.png",
-    "website": "https://www.mcdonalds.com/us/en-us.html",
-    "description": "McDonald's Corporation is an American multinational fast food corporation, founded in 1940 as a restaurant operated by Richard and Maurice McDonald, in San Bernardino, California, United States.",
-    "source": {
-      "name": "Wikipedia",
-      "link": "https://en.wikipedia.org/wiki/McDonald's"
-    },
-    "stock_price": "MCD (NYSE) USD 245.04 +0.85 (+0.35%)13 May, 4 - 00 pm GMT-4 - Disclaimer",
-    "stock_price_links": [
-      {
-        "text": "Stock price",
-        "link": "https://www.google.com/search?gl=au&q=mcdonalds+stock+price&stick=H4sIAAAAAAAAAONgecRoyi3w8sc9YSmdSWtOXmNU4-IKzsgvd80rySypFJLgYoOy-KR4uLj0c_UNzKuyi5LzeBaxiuYmp-TnJeakFCsUl-QnZysUFGUmpwIAfGZaGlIAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q6BN6BAhgEAI"
-      },
-      {
-        "text": "MCD",
-        "link": "https://www.google.com/search?gl=au&q=NYSE:+MCD&stick=H4sIAAAAAAAAAONgecRoyi3w8sc9YSmdSWtOXmNU4-IKzsgvd80rySypFJLgYoOy-KR4uLj0c_UNzKuyi5LzeBaxcvpFBrtaKfg6uwAAIRpEw0YAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94QsRV6BAhgEAM"
-      },
-      {
-        "text": "Disclaimer",
-        "link": "https://www.google.com/intl/en-AU_AU/googlefinance/disclaimer/"
-      }
-    ],
-    "founder": "Ray Kroc",
-    "founder_links": [
-      {
-        "text": "Founder",
-        "link": "https://www.google.com/search?gl=au&q=mcdonalds+founder&stick=H4sIAAAAAAAAAOPgE-LUz9U3ME-vLDDXUs9OttJPKi3OzEstLoYz4vMLUosSSzLz86zS8kvzUlKLFrEK5ian5Ocl5qQUK0DFAIL4DFFKAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q6BMoAHoECFwQAg"
-      },
-      {
-        "text": "Ray Kroc",
-        "link": "https://www.google.com/search?gl=au&q=Ray+Kroc&stick=H4sIAAAAAAAAAOPgE-LUz9U3ME-vLDBXAjMN80xSyrTUs5Ot9JNKizPzUouL4Yz4_ILUosSSzPw8q7T80ryU1KJFrBxBiZUK3kX5yTtYGXexM3EwAABgC_DJVAAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94QmxMoAXoECFwQAw"
-      }
-    ],
-    "founded": "15 April 1955, San Bernardino, California, United States",
-    "founded_links": [
-      {
-        "text": "Founded",
-        "link": "https://www.google.com/search?gl=au&q=mcdonalds+founded&stick=H4sIAAAAAAAAAOPgE-LUz9U3ME-vLDDXUs1OttLPL0pPzMusSizJzM9D4Vil5ZfmpaSmLGIVzE1Oyc9LzEkpVoCKAQAMlvExSAAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q6BMoAHoECFQQAg"
-      },
-      {
-        "text": "San Bernardino, California, United States",
-        "link": "https://www.google.com/search?gl=au&q=San+Bernardino&stick=H4sIAAAAAAAAAOPgE-LUz9U3ME-vLDBX4gAxi0wKC7VUs5Ot9POL0hPzMqsSSzLz81A4Vmn5pXkpqSmLWPmCE_MUnFKL8hKLUjLz8newMu5iZ-JgAACDE1VXVwAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94QmxMoAXoECFQQAw"
-      }
-    ],
-    "headquarters": "Chicago, Illinois, United States",
-    "headquarters_links": [
-      {
-        "text": "Headquarters",
-        "link": "https://www.google.com/search?gl=au&q=mcdonalds+headquarters&stick=H4sIAAAAAAAAAOPgE-LUz9U3ME-vLDDX0spOttLPL0pPzMusSizJzM9D4VhlpCamFJYmFpWkFhUvYhXLTU7Jz0vMSSlWQJYAADo2E7FSAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q6BMoAHoECFgQAg"
-      },
-      {
-        "text": "Chicago, Illinois, United States",
-        "link": "https://www.google.com/search?gl=au&q=Chicago&stick=H4sIAAAAAAAAAOPgE-LUz9U3ME-vLDBX4gAxDeNTTLS0spOt9POL0hPzMqsSSzLz81A4VhmpiSmFpYlFJalFxYtY2Z0zMpMT0_N3sDLuYmfiYAAA0oBF9VUAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94QmxMoAXoECFgQAw"
-      }
-    ],
-    "ceo": "Chris Kempczinski (4 Nov 2019–)",
-    "ceo_links": [
-      {
-        "text": "CEO",
-        "link": "https://www.google.com/search?gl=au&q=mcdonalds+ceo&stick=H4sIAAAAAAAAAOPgE-LUz9U3ME-vLDDXUsxOttLPL0pPzMusSizJzM9D4Vglp-YvYuXNTU7Jz0vMSSlWAPIB83Xpe0AAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q6BMoAHoECFkQAg"
-      },
-      {
-        "text": "Chris Kempczinski",
-        "link": "https://www.google.com/search?gl=au&q=Chris+Kempczinski&stick=H4sIAAAAAAAAAOPgE-LUz9U3ME-vLDBX4tVP1zc0zDIorCwoTEnTUsxOttLPL0pPzMusSizJzM9D4Vglp-YvYhV0zijKLFbwTs0tSK7KzCvOztzByriLnYmDAQD5rpAqWwAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94QmxMoAXoECFkQAw"
-      }
-    ],
-    "revenue": "21.08 billion USD (2019)",
-    "revenue_links": [
-      {
-        "text": "Revenue",
-        "link": "https://www.google.com/search?gl=au&q=mcdonalds+revenue&stick=H4sIAAAAAAAAAOPgE-LUz9U3ME-vLDDXUskot9JPzs_JSU0uyczP088vSk_My6xKBHGKrYpSy1LzSlMXsQrmJqfk5yXmpBQrQMUAX3ufBUcAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q6BMoAHoECFYQAg"
-      }
-    ],
-    "subsidiaries": "McCafé, McDonald's Restaurants, MORE",
-    "subsidiaries_links": [
-      {
-        "text": "Subsidiaries",
-        "link": "https://www.google.com/search?gl=au&q=mcdonalds+subsidiaries&stick=H4sIAAAAAAAAAOPgE-LUz9U3ME-vLDDX0swot9JPzs_JSU0uyczP088vSk_My6xKBHGKrYpLk4ozUzITizJTixexiuUmp-TnJeakFCsgSwAAuyZNMVEAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q6BMoAHoECFsQAg"
-      },
-      {
-        "text": "McCafé",
-        "link": "https://www.google.com/search?gl=au&q=McCaf%C3%A9&stick=H4sIAAAAAAAAAOPgE-LUz9U3ME-vLDBX4gIxjfNyq8oNtTQzyq30k_NzclKTSzLz8_Tzi9IT8zKrEkGcYqvi0qTizJTMxKLM1OJFrOy-yc6JaYdX7mBl3MXOxMEIAEusDe5WAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94QmxMoAXoECFsQAw"
-      },
-      {
-        "text": "McDonald's Restaurants",
-        "link": "https://www.google.com/search?gl=au&q=McDonald%27s+Restaurants&stick=H4sIAAAAAAAAAOPgE-LUz9U3ME-vLDBX4gIxLXPNMrJTtDQzyq30k_NzclKTSzLz8_Tzi9IT8zKrEkGcYqvi0qTizJTMxKLM1OJFrGK-yS75eYk5KerFCkGpxSWJpUWJeSXFO1gZd7EzcTACABvNd0FlAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94QmxMoAnoECFsQBA"
-      },
-      {
-        "text": "MORE",
-        "link": "https://www.google.com/search?gl=au&q=mcdonalds+subsidiaries&stick=H4sIAAAAAAAAAOPgE-LUz9U3ME-vLDDX0swot9JPzs_JSU0uyczP088vSk_My6xKBHGKrYpLk4ozUzITizJTixexiuUmp-TnJeakFCsgSwAAuyZNMVEAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q44YBKAN6BAhbEAU"
-      }
-    ],
-    "video_games": [
-      {
-        "name": "Happy Meal App",
-        "link": "https://www.google.com/search?gl=au&q=Happy+Meal+App&stick=H4sIAAAAAAAAAONgFuLUz9U3ME-vLDBX4tVP1zc0TDaqNC8oyyrTEgnLTEnNd0_MTfVNzE4tCgEzF7HyeSQWFFQq-KYm5ig4FhTsYGUEAEADxo9GAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94QxA16BAhaEAQ",
-        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=Happy+Meal+App&stick=H4sIAAAAAAAAAONgFuLUz9U3ME-vLDBX4tVP1zc0TDaqNC8oyyrTEgnLTEnNd0_MTfVNzE4tCgEzF7HyeSQWFFQq-KYm5ig4FhTsYGUEAEADxo9GAAAA",
-        "image": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/dec64c7ad51df69484c852b77195fa059ec6e056b2548e69ac98edf907de58f84d4716fc21243ff4.png"
-      },
-      {
-        "name": "The Lost Ring",
-        "link": "https://www.google.com/search?gl=au&q=The+Lost+Ring&stick=H4sIAAAAAAAAAONgFuLUz9U3ME-vLDBX4gIxjcszLPIKtETCMlNS890Tc1N9E7NTi0LAzEWsvCEZqQo--cUlCkGZeek7WBkBpQlw6UIAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94QxA16BAhaEAY",
-        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=The+Lost+Ring&stick=H4sIAAAAAAAAAONgFuLUz9U3ME-vLDBX4gIxjcszLPIKtETCMlNS890Tc1N9E7NTi0LAzEWsvCEZqQo--cUlCkGZeek7WBkBpQlw6UIAAAA",
-        "image": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/dec64c7ad51df69484c852b77195fa059ec6e056b2548e6905416b89d130bd55045a11727bbc0bba.jpeg"
-      }
-    ],
-    "video_games_link": "https://www.google.com/search?gl=au&q=mcdonalds+video+games&stick=H4sIAAAAAAAAAONgFuLUz9U3ME-vLDBXQjC1JLKTrfSTy9L10xNzU-NzE7NTi6xAzOJFrKK5ySn5eYk5KcUKZZkpqfkKYPEdrIwApdSmLk0AAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94QMSgAegQIWhAB",
-    "video_games_stick": "H4sIAAAAAAAAAONgFuLUz9U3ME-vLDBXQjC1JLKTrfSTy9L10xNzU-NzE7NTi6xAzOJFrKK5ySn5eYk5KcUKZZkpqfkKYPEdrIwApdSmLk0AAAA",
-    "profiles": [
-      {
-        "name": "Twitter",
-        "link": "https://twitter.com/McDonalds",
-        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=what+is+mcdonald%27s",
-        "image": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/dec64c7ad51df69484c852b77195fa05e5cd796d7c9ce2851c25fd896bc6aae0fb3c1a19a4bccb4a.png"
-      },
-      {
-        "name": "Instagram",
-        "link": "https://www.instagram.com/McDonalds",
-        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=what+is+mcdonald%27s",
-        "image": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/dec64c7ad51df69484c852b77195fa05e5cd796d7c9ce285846a06504d1d5bb076eee095c0e507e2.png"
-      },
-      {
-        "name": "Facebook",
-        "link": "https://www.facebook.com/McDonalds",
-        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=what+is+mcdonald%27s",
-        "image": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/dec64c7ad51df69484c852b77195fa05e5cd796d7c9ce2859202d288bd85590d2a2792bda0becfaa.png"
-      },
-      {
-        "name": "LinkedIn",
-        "link": "https://www.linkedin.com/company/mcdonald%27s-corporation",
-        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=what+is+mcdonald%27s",
-        "image": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/dec64c7ad51df69484c852b77195fa05e5cd796d7c9ce285d4e08d6cc76e33b6b4905fd1c635841f.png"
-      },
-      {
-        "name": "Pinterest",
-        "link": "https://www.pinterest.com/mcdonalds",
-        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=what+is+mcdonald%27s",
-        "image": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/dec64c7ad51df69484c852b77195fa05e5cd796d7c9ce285d7f5d18501cdd1d347ab9c82b7f568a0.png"
-      }
-    ],
-    "people_also_search_for": [
-      {
-        "name": "Burger King",
-        "link": "https://www.google.com/search?gl=au&q=Burger+King&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgAqXlNVec6nHaVM_s-PPPLVNp_6npnO-T2BxWplhdiHHW3uxhWdtWGYq_Cd_T-6idx2iHtie1GHq350yYNoXa9M0W6XEWt4L4bxn-ZXAfqpnU7HixFykfqAz8sdRTVUbttBlU3MTS6yAHTWo1vWZHGLJetKpmZGidpw51DuH13dotj90y6TNoBpFE8j73GqU6LEOqBrN1zywNGHqX8W0rJyIq4pTsxWWH2P1icdudzbKN0Hhx068NG0A4obX0KW67_Of4Sc%3D&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94QxA16BAhXEAU",
-        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=Burger+King&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgAqXlNVec6nHaVM_s-PPPLVNp_6npnO-T2BxWplhdiHHW3uxhWdtWGYq_Cd_T-6idx2iHtie1GHq350yYNoXa9M0W6XEWt4L4bxn-ZXAfqpnU7HixFykfqAz8sdRTVUbttBlU3MTS6yAHTWo1vWZHGLJetKpmZGidpw51DuH13dotj90y6TNoBpFE8j73GqU6LEOqBrN1zywNGHqX8W0rJyIq4pTsxWWH2P1icdudzbKN0Hhx068NG0A4obX0KW67_Of4Sc%3D",
-        "image": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/dec64c7ad51df69484c852b77195fa058819220fd7cc49b4e8421d6b99a98f357f099ac1d4b87e12d79a3b43f9765148.png"
-      },
-      {
-        "name": "Taco Bell",
-        "link": "https://www.google.com/search?gl=au&q=Taco+Bell&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdbpa__IYtKoRiUNnZ-YOQwWfitwi7JczbQTUp8yL8D2fW1e03ZQyQSD_JRnKvGInhu4wvoCGlTRMFTS0vW467d9FEmbtQXScee14z5Htqwz0M3Hj3LemnSy3l5gIZMLPZAtMHf928cPnjlAT1xJuxgYb48g1a0pttB0tsNp4fLJwVAnow_zYt0FVYZN6IHyvSV3Lg49f7N1-ag_Ky0MVIG-M4WbWrVTPwKR4c4W3t0rlh7QIzDdjW-knlkJr7KusZxiqb8A%3D&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94QxA16BAhXEAc",
-        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=Taco+Bell&si=AC1wQDCwN61-ebmuwbQCO5QCrgOvEq5bkWeIzJ5JczItzAKNdbpa__IYtKoRiUNnZ-YOQwWfitwi7JczbQTUp8yL8D2fW1e03ZQyQSD_JRnKvGInhu4wvoCGlTRMFTS0vW467d9FEmbtQXScee14z5Htqwz0M3Hj3LemnSy3l5gIZMLPZAtMHf928cPnjlAT1xJuxgYb48g1a0pttB0tsNp4fLJwVAnow_zYt0FVYZN6IHyvSV3Lg49f7N1-ag_Ky0MVIG-M4WbWrVTPwKR4c4W3t0rlh7QIzDdjW-knlkJr7KusZxiqb8A%3D",
-        "image": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/dec64c7ad51df69484c852b77195fa058819220fd7cc49b4e8421d6b99a98f352ed959c25b706577e39c7ff2b7854576.png"
-      },
-      {
-        "name": "Wendy's Company",
-        "link": "https://www.google.com/search?gl=au&q=Wendys&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcbrXyjj39GMGeHNr0AbNmpS9BWHDutltfguo7QFVK997r-TaHTTaWlltwMBxPDFgyPZF0qN-FV0yr-PuAzPTDZPicbNX3_9wy9j8vuzvNjnbByQat4ytTwVPDGV1iL0tT9QuJdhxklH6Xdkx72j52SGEqwBISOSPFTWGCR7s7YBflz3WT5G_CxjAFevZK3bYXuxFAaiuaxszetnyOgDBdLOQvh-OQCaI7ZrEH_Z9_zkVuXcMKWQ4l0Csbj8A9D1S1yifgtyQ%3D&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94QxA16BAhXEAk",
-        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=Wendys&si=AC1wQDBgv4q3A2ojf086TvVgL6tTfKEZW2vrlR3V2uQ-r4wcbrXyjj39GMGeHNr0AbNmpS9BWHDutltfguo7QFVK997r-TaHTTaWlltwMBxPDFgyPZF0qN-FV0yr-PuAzPTDZPicbNX3_9wy9j8vuzvNjnbByQat4ytTwVPDGV1iL0tT9QuJdhxklH6Xdkx72j52SGEqwBISOSPFTWGCR7s7YBflz3WT5G_CxjAFevZK3bYXuxFAaiuaxszetnyOgDBdLOQvh-OQCaI7ZrEH_Z9_zkVuXcMKWQ4l0Csbj8A9D1S1yifgtyQ%3D",
-        "image": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/dec64c7ad51df69484c852b77195fa058819220fd7cc49b4e8421d6b99a98f357650ab7b7af6e926c100e902c08f63c0.png"
-      },
-      {
-        "name": "MOS Burger",
-        "link": "https://www.google.com/search?gl=au&q=MOS+Burger&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgM1j6hyuBKBuFDrTR0FYRL-3BWnQXv7rLaU8bAc6a-ZZxXHFvXTyCZBsdbelczib6T9VuTOKQOzUmZgTmLjc1whgD_NGx-xhP-BetCaKtqZU0yKm-q_IhsSabMMzCxiyBoAafEYoHoRpyw93hfdY2x3nyDzgLmYFtbFQKEf4q1h1ENsaPgFv28uLOusYsYcgR4zmyR0UFboih7FgnWLqwrL1UQUl3nys14R_8IatnRC3N5g9D5iBMD6BGZdzELgJoB_XH3c%3D&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94QxA16BAhXEAs",
-        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=MOS+Burger&si=AC1wQDDagiMg03ncxeOQZbwVe-CJxRCchC-jr2hCPTxjc9wbgM1j6hyuBKBuFDrTR0FYRL-3BWnQXv7rLaU8bAc6a-ZZxXHFvXTyCZBsdbelczib6T9VuTOKQOzUmZgTmLjc1whgD_NGx-xhP-BetCaKtqZU0yKm-q_IhsSabMMzCxiyBoAafEYoHoRpyw93hfdY2x3nyDzgLmYFtbFQKEf4q1h1ENsaPgFv28uLOusYsYcgR4zmyR0UFboih7FgnWLqwrL1UQUl3nys14R_8IatnRC3N5g9D5iBMD6BGZdzELgJoB_XH3c%3D",
-        "image": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/dec64c7ad51df69484c852b77195fa058819220fd7cc49b4e8421d6b99a98f35408ff3f4e57a94dfb6b45d0bff3676d8.png"
-      }
-    ],
-    "people_also_search_for_link": "https://www.google.com/search?gl=au&q=McDonalds&stick=H4sIAAAAAAAAAONgFuLUz9U3ME-vLDBXQjC1BIMzU1LLEyuL_VIrSoJLUguKF7Fy-ia75Ocl5qQU72BlBADVqb-AOgAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94QMSgAegQIVxAB",
-    "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3ME-vLDBXQjC1BIMzU1LLEyuL_VIrSoJLUguKF7Fy-ia75Ocl5qQU72BlBADVqb-AOgAAAA"
-  },
-  "twitter_results": {
-    "link": "https://twitter.com/McDonalds/status/1524761077300568064?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-    "tweets": [
-      {
-        "link": "https://twitter.com/McDonalds/status/1524761077300568064?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-        "snippet": "i had a nightmare i was ratio’d",
-        "published_date": "3 days ago"
-      },
-      {
-        "link": "https://twitter.com/McDonalds/status/1524405167810138114?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-        "snippet": "this is where i tweet from",
-        "thumbnail": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/97406f90d068dd4b5224ab289cabf8a3e440ae15d470e2fb433473ab7a38f817997944a121bc5fea.jpeg",
-        "published_date": "4 days ago"
-      },
-      {
-        "link": "https://twitter.com/McDonalds/status/1521143128073424897?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
-        "snippet": "you: im at mcdonald’s me: no im @McDonalds",
-        "published_date": "2 May 2022"
-      }
-    ]
-  },
-  "inline_videos": [
+  "inline_images": [
     {
-      "position": 1,
-      "title": "What is McDonald's Business Model?",
-      "link": "https://www.youtube.com/watch?v=p1Vy9AYNoWE",
-      "thumbnail": "https://i.ytimg.com/vi/p1Vy9AYNoWE/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3kn5JSbAuRQU4ve0Ih1bUWGzqcejQ",
-      "channel": "Management Consulted",
-      "duration": "10:30",
-      "platform": "YouTube",
-      "date": "9 Apr 2021"
+      "link": "https://www.google.com/search?q=who+is+the+first+president+of+america&gl=au&tbm=isch&source=iu&ictx=1&vet=1&fir=Wfvcdu3POSJQYM%252C0nrZPc1NzuUJ7M%252C_%253BxEObR1GB0nbd8M%252CFFUOgXHZrEbGSM%252C_%253B98tf5W5dq65s3M%252CM7xTbBvsYqEYnM%252C_%253BKgjceXF6ARWHHM%252CQVpqEZIFsJUI2M%252C_%253BYsxwr_pXlsZ_8M%252C2o1tTfYV_zi_7M%252C_%253BmjM05QxupDwHhM%252C8PI_RmCjZd_LyM%252C_%253B8SINjjMdioFEMM%252CU9C6z5Y3tsDI6M%252C_%253BdY9XwFTOrG_b7M%252CuT_qhnB4HUw_jM%252C_%253BYE1yOWRInKTrmM%252CAVJh4bInSkuZ3M%252C_%253BUoZhA1BkY5IBcM%252Ch-BmWn-K9bFqgM%252C_&usg=AI4_-kR2X9aASmsEsB2W018UYXL4hE0KIA&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Q9QF6BAgDEAE#imgrc=Wfvcdu3POSJQYM",
+      "source": "https://www.whitehouse.gov/about-the-white-house/presidents/george-washington/",
+      "thumbnail": "https://serpapi.com/searches/629d5d2ca4bb38fa59d1dd1b/images/41480cf8a52bc0973f8a8884cd568ee30ee3ae41f597daf10fbf97ab41b256b2.jpeg"
     },
     {
-      "position": 2,
-      "title": "This Is Why McDonald's Burgers Are So Delicious",
-      "link": "https://www.youtube.com/watch?v=LQmU4QQgAxQ",
-      "thumbnail": "https://i.ytimg.com/vi/LQmU4QQgAxQ/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3mcCsTZNIPMRtIJ3RKwErOzE59Qeg",
-      "channel": "Mashed",
-      "duration": "10:29",
-      "platform": "YouTube",
-      "date": "12 Oct 2020"
+      "link": "https://www.google.com/search?q=who+is+the+first+president+of+america&gl=au&tbm=isch&source=iu&ictx=1&vet=1&fir=Wfvcdu3POSJQYM%252C0nrZPc1NzuUJ7M%252C_%253BxEObR1GB0nbd8M%252CFFUOgXHZrEbGSM%252C_%253B98tf5W5dq65s3M%252CM7xTbBvsYqEYnM%252C_%253BKgjceXF6ARWHHM%252CQVpqEZIFsJUI2M%252C_%253BYsxwr_pXlsZ_8M%252C2o1tTfYV_zi_7M%252C_%253BmjM05QxupDwHhM%252C8PI_RmCjZd_LyM%252C_%253B8SINjjMdioFEMM%252CU9C6z5Y3tsDI6M%252C_%253BdY9XwFTOrG_b7M%252CuT_qhnB4HUw_jM%252C_%253BYE1yOWRInKTrmM%252CAVJh4bInSkuZ3M%252C_%253BUoZhA1BkY5IBcM%252Ch-BmWn-K9bFqgM%252C_&usg=AI4_-kR2X9aASmsEsB2W018UYXL4hE0KIA&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Q9QF6BAghEAE#imgrc=xEObR1GB0nbd8M",
+      "source": "https://en.wikipedia.org/wiki/George_Washington",
+      "thumbnail": "https://serpapi.com/searches/629d5d2ca4bb38fa59d1dd1b/images/41480cf8a52bc097c02eac190a165a4f57c8bf2fa34df2b501885ae51e1698eb.jpeg"
     },
     {
-      "position": 3,
-      "title": "Why is McDonald's so cheap?",
-      "link": "https://www.youtube.com/watch?v=U-LFI7CAfcg",
-      "thumbnail": "https://i.ytimg.com/vi/U-LFI7CAfcg/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3mURBMgpkuzWVFhKlhWmmdDyKbKBA",
-      "channel": "Our Changing Climate",
-      "duration": "12:34",
-      "platform": "YouTube",
-      "date": "5 June 2020"
+      "link": "https://www.google.com/search?q=who+is+the+first+president+of+america&gl=au&tbm=isch&source=iu&ictx=1&vet=1&fir=Wfvcdu3POSJQYM%252C0nrZPc1NzuUJ7M%252C_%253BxEObR1GB0nbd8M%252CFFUOgXHZrEbGSM%252C_%253B98tf5W5dq65s3M%252CM7xTbBvsYqEYnM%252C_%253BKgjceXF6ARWHHM%252CQVpqEZIFsJUI2M%252C_%253BYsxwr_pXlsZ_8M%252C2o1tTfYV_zi_7M%252C_%253BmjM05QxupDwHhM%252C8PI_RmCjZd_LyM%252C_%253B8SINjjMdioFEMM%252CU9C6z5Y3tsDI6M%252C_%253BdY9XwFTOrG_b7M%252CuT_qhnB4HUw_jM%252C_%253BYE1yOWRInKTrmM%252CAVJh4bInSkuZ3M%252C_%253BUoZhA1BkY5IBcM%252Ch-BmWn-K9bFqgM%252C_&usg=AI4_-kR2X9aASmsEsB2W018UYXL4hE0KIA&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Q9QF6BAglEAE#imgrc=98tf5W5dq65s3M",
+      "source": "https://www.history.com/news/first-10-us-presidents",
+      "thumbnail": "https://serpapi.com/searches/629d5d2ca4bb38fa59d1dd1b/images/41480cf8a52bc097c9c39c834f021736e306eb0281ca46552a8754634f613aca.jpeg"
+    },
+    {
+      "link": "https://www.google.com/search?q=who+is+the+first+president+of+america&gl=au&tbm=isch&source=iu&ictx=1&vet=1&fir=Wfvcdu3POSJQYM%252C0nrZPc1NzuUJ7M%252C_%253BxEObR1GB0nbd8M%252CFFUOgXHZrEbGSM%252C_%253B98tf5W5dq65s3M%252CM7xTbBvsYqEYnM%252C_%253BKgjceXF6ARWHHM%252CQVpqEZIFsJUI2M%252C_%253BYsxwr_pXlsZ_8M%252C2o1tTfYV_zi_7M%252C_%253BmjM05QxupDwHhM%252C8PI_RmCjZd_LyM%252C_%253B8SINjjMdioFEMM%252CU9C6z5Y3tsDI6M%252C_%253BdY9XwFTOrG_b7M%252CuT_qhnB4HUw_jM%252C_%253BYE1yOWRInKTrmM%252CAVJh4bInSkuZ3M%252C_%253BUoZhA1BkY5IBcM%252Ch-BmWn-K9bFqgM%252C_&usg=AI4_-kR2X9aASmsEsB2W018UYXL4hE0KIA&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Q9QF6BAgmEAE#imgrc=KgjceXF6ARWHHM",
+      "source": "https://www.history.com/news/who-was-the-first-president-born-an-american-citizen",
+      "thumbnail": "https://serpapi.com/searches/629d5d2ca4bb38fa59d1dd1b/images/41480cf8a52bc0979a0332998717d51811f495358ca9f9322400cb87076f7998.jpeg"
+    },
+    {
+      "link": "https://www.google.com/search?q=who+is+the+first+president+of+america&gl=au&tbm=isch&source=iu&ictx=1&vet=1&fir=Wfvcdu3POSJQYM%252C0nrZPc1NzuUJ7M%252C_%253BxEObR1GB0nbd8M%252CFFUOgXHZrEbGSM%252C_%253B98tf5W5dq65s3M%252CM7xTbBvsYqEYnM%252C_%253BKgjceXF6ARWHHM%252CQVpqEZIFsJUI2M%252C_%253BYsxwr_pXlsZ_8M%252C2o1tTfYV_zi_7M%252C_%253BmjM05QxupDwHhM%252C8PI_RmCjZd_LyM%252C_%253B8SINjjMdioFEMM%252CU9C6z5Y3tsDI6M%252C_%253BdY9XwFTOrG_b7M%252CuT_qhnB4HUw_jM%252C_%253BYE1yOWRInKTrmM%252CAVJh4bInSkuZ3M%252C_%253BUoZhA1BkY5IBcM%252Ch-BmWn-K9bFqgM%252C_&usg=AI4_-kR2X9aASmsEsB2W018UYXL4hE0KIA&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Q9QF6BAgrEAE#imgrc=Ysxwr_pXlsZ_8M",
+      "source": "https://www.whitehouse.gov/about-the-white-house/presidents/abraham-lincoln/",
+      "thumbnail": "https://serpapi.com/searches/629d5d2ca4bb38fa59d1dd1b/images/41480cf8a52bc097a8a1a50da51956b0c9ab3a58a8da17b6fb936c92bd1174d2.jpeg"
+    },
+    {
+      "link": "https://www.google.com/search?q=who+is+the+first+president+of+america&gl=au&tbm=isch&source=iu&ictx=1&vet=1&fir=Wfvcdu3POSJQYM%252C0nrZPc1NzuUJ7M%252C_%253BxEObR1GB0nbd8M%252CFFUOgXHZrEbGSM%252C_%253B98tf5W5dq65s3M%252CM7xTbBvsYqEYnM%252C_%253BKgjceXF6ARWHHM%252CQVpqEZIFsJUI2M%252C_%253BYsxwr_pXlsZ_8M%252C2o1tTfYV_zi_7M%252C_%253BmjM05QxupDwHhM%252C8PI_RmCjZd_LyM%252C_%253B8SINjjMdioFEMM%252CU9C6z5Y3tsDI6M%252C_%253BdY9XwFTOrG_b7M%252CuT_qhnB4HUw_jM%252C_%253BYE1yOWRInKTrmM%252CAVJh4bInSkuZ3M%252C_%253BUoZhA1BkY5IBcM%252Ch-BmWn-K9bFqgM%252C_&usg=AI4_-kR2X9aASmsEsB2W018UYXL4hE0KIA&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Q9QF6BAgkEAE#imgrc=mjM05QxupDwHhM",
+      "source": "https://www.historyextra.com/period/georgian/george-washington-first-us-president-founding-father-facts-life/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa9XjPt2VGT_iPf77G_PhP0CwrEyjV_j1ba55sbzoKfw&s"
+    },
+    {
+      "link": "https://www.google.com/search?q=who+is+the+first+president+of+america&gl=au&tbm=isch&source=iu&ictx=1&vet=1&fir=Wfvcdu3POSJQYM%252C0nrZPc1NzuUJ7M%252C_%253BxEObR1GB0nbd8M%252CFFUOgXHZrEbGSM%252C_%253B98tf5W5dq65s3M%252CM7xTbBvsYqEYnM%252C_%253BKgjceXF6ARWHHM%252CQVpqEZIFsJUI2M%252C_%253BYsxwr_pXlsZ_8M%252C2o1tTfYV_zi_7M%252C_%253BmjM05QxupDwHhM%252C8PI_RmCjZd_LyM%252C_%253B8SINjjMdioFEMM%252CU9C6z5Y3tsDI6M%252C_%253BdY9XwFTOrG_b7M%252CuT_qhnB4HUw_jM%252C_%253BYE1yOWRInKTrmM%252CAVJh4bInSkuZ3M%252C_%253BUoZhA1BkY5IBcM%252Ch-BmWn-K9bFqgM%252C_&usg=AI4_-kR2X9aASmsEsB2W018UYXL4hE0KIA&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Q9QF6BAgdEAE#imgrc=8SINjjMdioFEMM",
+      "source": "https://www.usatoday.com/story/news/factcheck/2020/12/15/fact-check-barack-obama-first-black-u-s-president/3909214001/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8-u-yUVh01FzySnt5vyqsVa9EoFxkhE7RG4iamXcn&s"
+    },
+    {
+      "link": "https://www.google.com/search?q=who+is+the+first+president+of+america&gl=au&tbm=isch&source=iu&ictx=1&vet=1&fir=Wfvcdu3POSJQYM%252C0nrZPc1NzuUJ7M%252C_%253BxEObR1GB0nbd8M%252CFFUOgXHZrEbGSM%252C_%253B98tf5W5dq65s3M%252CM7xTbBvsYqEYnM%252C_%253BKgjceXF6ARWHHM%252CQVpqEZIFsJUI2M%252C_%253BYsxwr_pXlsZ_8M%252C2o1tTfYV_zi_7M%252C_%253BmjM05QxupDwHhM%252C8PI_RmCjZd_LyM%252C_%253B8SINjjMdioFEMM%252CU9C6z5Y3tsDI6M%252C_%253BdY9XwFTOrG_b7M%252CuT_qhnB4HUw_jM%252C_%253BYE1yOWRInKTrmM%252CAVJh4bInSkuZ3M%252C_%253BUoZhA1BkY5IBcM%252Ch-BmWn-K9bFqgM%252C_&usg=AI4_-kR2X9aASmsEsB2W018UYXL4hE0KIA&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Q9QF6BAgVEAE#imgrc=dY9XwFTOrG_b7M",
+      "source": "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn1kjRBjUEQCA7rAeYQIAlKx5_xT0QlonOwdKxQ0rC&s"
+    },
+    {
+      "link": "https://www.google.com/search?q=who+is+the+first+president+of+america&gl=au&tbm=isch&source=iu&ictx=1&vet=1&fir=Wfvcdu3POSJQYM%252C0nrZPc1NzuUJ7M%252C_%253BxEObR1GB0nbd8M%252CFFUOgXHZrEbGSM%252C_%253B98tf5W5dq65s3M%252CM7xTbBvsYqEYnM%252C_%253BKgjceXF6ARWHHM%252CQVpqEZIFsJUI2M%252C_%253BYsxwr_pXlsZ_8M%252C2o1tTfYV_zi_7M%252C_%253BmjM05QxupDwHhM%252C8PI_RmCjZd_LyM%252C_%253B8SINjjMdioFEMM%252CU9C6z5Y3tsDI6M%252C_%253BdY9XwFTOrG_b7M%252CuT_qhnB4HUw_jM%252C_%253BYE1yOWRInKTrmM%252CAVJh4bInSkuZ3M%252C_%253BUoZhA1BkY5IBcM%252Ch-BmWn-K9bFqgM%252C_&usg=AI4_-kR2X9aASmsEsB2W018UYXL4hE0KIA&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Q9QF6BAgQEAE#imgrc=YE1yOWRInKTrmM",
+      "source": "https://www.youtube.com/watch?v=kt3dIWV38hQ",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZLH-9E-XZRNGfBG5E6AX0_ddYaqJZTijdF4F6Dj0vLA&s"
+    },
+    {
+      "link": "https://www.google.com/search?q=who+is+the+first+president+of+america&gl=au&tbm=isch&source=iu&ictx=1&vet=1&fir=Wfvcdu3POSJQYM%252C0nrZPc1NzuUJ7M%252C_%253BxEObR1GB0nbd8M%252CFFUOgXHZrEbGSM%252C_%253B98tf5W5dq65s3M%252CM7xTbBvsYqEYnM%252C_%253BKgjceXF6ARWHHM%252CQVpqEZIFsJUI2M%252C_%253BYsxwr_pXlsZ_8M%252C2o1tTfYV_zi_7M%252C_%253BmjM05QxupDwHhM%252C8PI_RmCjZd_LyM%252C_%253B8SINjjMdioFEMM%252CU9C6z5Y3tsDI6M%252C_%253BdY9XwFTOrG_b7M%252CuT_qhnB4HUw_jM%252C_%253BYE1yOWRInKTrmM%252CAVJh4bInSkuZ3M%252C_%253BUoZhA1BkY5IBcM%252Ch-BmWn-K9bFqgM%252C_&usg=AI4_-kR2X9aASmsEsB2W018UYXL4hE0KIA&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Q9QF6BAgHEAE#imgrc=UoZhA1BkY5IBcM",
+      "source": "https://www.the-sun.com/news/974055/the-first-president-united-states-george-washington/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu4hhVHJxnqW9IQf86Fn_ueOyT_f28R0g61BZY0KH1qA&s"
     }
   ],
   "inline_people_also_search_for": [
     {
-      "title": "Fast food companies",
+      "title": "U.S. presidents",
       "items": [
         {
-          "name": "Burger King",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQkmtNPIo4WhNZc4VWtMwCZhlhdq8Q3qXaRjIp&s=0",
-          "link": "https://www.google.com/search?gl=au&q=Burger+King&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDQzMCw0Ek5LLC5RSMvPT1FIzs8tSMzLTC2OEirPSCxRyCxWyE1Oyc9LzElRLz7FiNB0ipEDxLZMTjeDMZPMSk4xcoGYJnlGOSXpUOXGyTnluVC2UXJySSHcGIu0FLgxaXBhi-T4IqhwmnmhyS9GYTdM5y1i5XYqLUpPLVLwzsxLv8UmyWD6sZWpxn_C0ZuStSyRUicqPRYaSHDHGsYAAC9E-ezrAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Qs9oBKAB6BAgoEAI",
-          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=Burger+King&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDQzMCw0Ek5LLC5RSMvPT1FIzs8tSMzLTC2OEirPSCxRyCxWyE1Oyc9LzElRLz7FiNB0ipEDxLZMTjeDMZPMSk4xcoGYJnlGOSXpUOXGyTnluVC2UXJySSHcGIu0FLgxaXBhi-T4IqhwmnmhyS9GYTdM5y1i5XYqLUpPLVLwzsxLv8UmyWD6sZWpxn_C0ZuStSyRUicqPRYaSHDHGsYAAC9E-ezrAAAA"
+          "name": "George Washington",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE-3FmUTFZxClsZ19MgDWZU0girRocld_9Vgcw4Lw507TxPUq2cMlW&s=0",
+          "link": "https://www.google.com/search?gl=au&q=George+Washington&stick=H4sIAAAAAAAAAOOQUeLQz9U3MDYpSjHiLS1WKChKLc5MSc0rKY5SLc_IV8gsVijJSFVIyywqLkFIKuSnKSTmphZlJieeYoQbAGWaJycVw0Tjs4BMThDT0Ci9wugUIzuInV6VARVNLiyxNIAqNjEyyYUKG-Vm5RZB2ZZJZlUwdopxtqHJL0b-UL1gPSSnNrAwLmIVdE_NL0pPVQhPLM7IzEsvyc-7xSbJYPqxlakx4f5NoZzwlRuKJ3KvNdQxbXtzMhAA7iiATvkAAAA&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Qs9oBKAB6BAg3EAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=George+Washington&stick=H4sIAAAAAAAAAOOQUeLQz9U3MDYpSjHiLS1WKChKLc5MSc0rKY5SLc_IV8gsVijJSFVIyywqLkFIKuSnKSTmphZlJieeYoQbAGWaJycVw0Tjs4BMThDT0Ci9wugUIzuInV6VARVNLiyxNIAqNjEyyYUKG-Vm5RZB2ZZJZlUwdopxtqHJL0b-UL1gPSSnNrAwLmIVdE_NL0pPVQhPLM7IzEsvyc-7xSbJYPqxlakx4f5NoZzwlRuKJ3KvNdQxbXtzMhAA7iiATvkAAAA"
         },
         {
-          "name": "Taco Bell",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJE6ahvyJ_aO80Qs-lHMDVq2UC2pAhiGh2VsP8&s=0",
-          "link": "https://www.google.com/search?gl=au&q=Taco+Bell&stick=H4sIAAAAAAAAAOOQUeLQz9U3sExONzMSTkssLlFIy89PUUjOzy1IzMtMLY4SKs9ILFHILFbITU7Jz0vMSVEvPsXICdJjaGZgWHiKEa4fxkwyKznFyAVimuQZ5ZSkQ5UbJ-eU50LZRsnJJYVwYyzSUuDGpMGFLZLji6DCaeaFJr8Yhd0wnbeIlTMkMTlfwSk1J-cWmySD6cdWphr_CUdvStayREqdqPRYaCDBHWsYAwBb6qJr6AAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Qs9oBKAF6BAgoEAM",
-          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=Taco+Bell&stick=H4sIAAAAAAAAAOOQUeLQz9U3sExONzMSTkssLlFIy89PUUjOzy1IzMtMLY4SKs9ILFHILFbITU7Jz0vMSVEvPsXICdJjaGZgWHiKEa4fxkwyKznFyAVimuQZ5ZSkQ5UbJ-eU50LZRsnJJYVwYyzSUuDGpMGFLZLji6DCaeaFJr8Yhd0wnbeIlTMkMTlfwSk1J-cWmySD6cdWphr_CUdvStayREqdqPRYaCDBHWsYAwBb6qJr6AAAAA"
+          "name": "Thomas Jefferson",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQndAtmorj5SVr04sQ01DUCeZ1yhnjrED5cEuSWpd9xvRDbDwvipyGh&s=0",
+          "link": "https://www.google.com/search?gl=au&q=Thomas+Jefferson&stick=H4sIAAAAAAAAAOOQUeLQz9U3ME9OKjbiLS1WKChKLc5MSc0rKY5SLc_IV8gsVijJSFVIyywqLkFIKuSnKSTmphZlJieeYgQbYGxSlAJlgsyCicZnAZmcIKahUXqF0SlGdhA7vSoDKppcWGJpAFVsYmSSCxU2ys3KLYKyLZPMqmDsFONsQ5NfjPyhesF6SE5tYGFcxCoQkpGfm1is4JWalpZaVJyfd4tNksH0YytTY8L9m0I54Ss3FE_kXmuoY9r25mQgALFLVvb4AAAA&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Qs9oBKAF6BAg3EAM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=Thomas+Jefferson&stick=H4sIAAAAAAAAAOOQUeLQz9U3ME9OKjbiLS1WKChKLc5MSc0rKY5SLc_IV8gsVijJSFVIyywqLkFIKuSnKSTmphZlJieeYgQbYGxSlAJlgsyCicZnAZmcIKahUXqF0SlGdhA7vSoDKppcWGJpAFVsYmSSCxU2ys3KLYKyLZPMqmDsFONsQ5NfjPyhesF6SE5tYGFcxCoQkpGfm1is4JWalpZaVJyfd4tNksH0YytTY8L9m0I54Ss3FE_kXmuoY9r25mQgALFLVvb4AAAA"
         },
         {
-          "name": "KFC",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT63_9q2gwqgVDTqq5dZyoVudKvYhVNhbWOmAt6&s=0",
-          "link": "https://www.google.com/search?gl=au&q=KFC&stick=H4sIAAAAAAAAAOOQUeLQz9U3sEwyKzESTkssLlFIy89PUUjOzy1IzMtMLY4SKs9ILFHILFbITU7Jz0vMSVEvPsXICdJjaGZgWHiKEaI_Od0MxgQadYqRC8Q0yTPKKUmHKjdOzinPhbKNkpNLCuHGWKSlwI1JgwtbJMcXQYXTzAtNfjEKu2E6bxErs7eb8y02SQbTj61MNf4Tjt6UrGWJlDpR6bHQQII71jAGADc_LFziAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Qs9oBKAJ6BAgoEAQ",
-          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=KFC&stick=H4sIAAAAAAAAAOOQUeLQz9U3sEwyKzESTkssLlFIy89PUUjOzy1IzMtMLY4SKs9ILFHILFbITU7Jz0vMSVEvPsXICdJjaGZgWHiKEaI_Od0MxgQadYqRC8Q0yTPKKUmHKjdOzinPhbKNkpNLCuHGWKSlwI1JgwtbJMcXQYXTzAtNfjEKu2E6bxErs7eb8y02SQbTj61MNf4Tjt6UrGWJlDpR6bHQQII71jAGADc_LFziAAAA"
+          "name": "John Adams",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXJGWSfR8NESt4TbLkkzwF_WpdYbz5P_mnifVrE6-Orb4JvMMMmaz6&s=0",
+          "link": "https://www.google.com/search?gl=au&q=John+Adams&stick=H4sIAAAAAAAAAOOQUeLQz9U3MI7PKjbiLS1WKChKLc5MSc0rKY5SLc_IV8gsVijJSFVIyywqLkFIKuSnKSTmphZlJieeYoQYYFKUAmWaJycVw0SBxp5i5AQxDY3SK4xOMbKD2OlVGVDR5MISSwOoYhMjk1yosFFuVm4RlG2ZZFYFY6cYZxua_GLkD9UL1kNyagML4yJWLq_8jDwFx5TE3OJbbJIMph9bmRoT7t8UyglfuaF4IvdaQx3TtjcnAwFxwgA78gAAAA&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Qs9oBKAJ6BAg3EAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=John+Adams&stick=H4sIAAAAAAAAAOOQUeLQz9U3MI7PKjbiLS1WKChKLc5MSc0rKY5SLc_IV8gsVijJSFVIyywqLkFIKuSnKSTmphZlJieeYoQYYFKUAmWaJycVw0SBxp5i5AQxDY3SK4xOMbKD2OlVGVDR5MISSwOoYhMjk1yosFFuVm4RlG2ZZFYFY6cYZxua_GLkD9UL1kNyagML4yJWLq_8jDwFx5TE3OJbbJIMph9bmRoT7t8UyglfuaF4IvdaQx3TtjcnAwFxwgA78gAAAA"
         },
         {
-          "name": "Wendy's Company",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA023FUOO-6kTklA2PvkoLHjK509z4gz9BLhSH&s=0",
-          "link": "https://www.google.com/search?gl=au&q=Wendys&stick=H4sIAAAAAAAAAOOQUeLSz9U3MMkzyilJNxJOSywuUUjLz09RSM7PLUjMy0wtjhIqz0gsUcgsVshNTsnPS8xJUS8-xcgJ0mVoZmBYeIqRA8S2TE43gzGTzEpOMSKZC1VunJxTngtlGyUnlxTCjbFIS4EbkwYXtkiOL4IKp5kXmvxiFHbDdN4iVrbw1LyUyuJbbJIMph9bmWr8Jxy9KVnLEil1otJjoYEEd6xhDAAY7Y6D5wAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Qs9oBKAN6BAgoEAU",
-          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=Wendys&stick=H4sIAAAAAAAAAOOQUeLSz9U3MMkzyilJNxJOSywuUUjLz09RSM7PLUjMy0wtjhIqz0gsUcgsVshNTsnPS8xJUS8-xcgJ0mVoZmBYeIqRA8S2TE43gzGTzEpOMSKZC1VunJxTngtlGyUnlxTCjbFIS4EbkwYXtkiOL4IKp5kXmvxiFHbDdN4iVrbw1LyUyuJbbJIMph9bmWr8Jxy9KVnLEil1otJjoYEEd6xhDAAY7Y6D5wAAAA"
+          "name": "Joe Biden",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcR57rATV3tY2ipXJMZqGYziW6jjjF9unasCehV8Zbx0RejqYH3stYzoQljTYt2-aYwmjgB0NsA&s=19",
+          "link": "https://www.google.com/search?gl=au&q=Joe+Biden&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDRKrzAy4i0tVigoSi3OTEnNKymOUi3PyFfILFYoyUhVSMssKi5BSCrkpykk5qYWZSYnnmLkAJlgbFKUAmWaJycVw0Tjs4BMhBWnGNlB7PSqDKhocmGJpQFUsYmRSS5U2Cg3K7cIyrZMMquCsVOMsw1NfjHyh-oF6yE5tYGFcRErp1d-qoITSOAWmySD6cdWpsaE-zeFcsJXbiieyL3WUMe07c3JQADljW698gAAAA&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Qs9oBKAN6BAg3EAU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=Joe+Biden&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDRKrzAy4i0tVigoSi3OTEnNKymOUi3PyFfILFYoyUhVSMssKi5BSCrkpykk5qYWZSYnnmLkAJlgbFKUAmWaJycVw0Tjs4BMhBWnGNlB7PSqDKhocmGJpQFUsYmRSS5U2Cg3K7cIyrZMMquCsVOMsw1NfjHyh-oF6yE5tYGFcRErp1d-qoITSOAWmySD6cdWpsaE-zeFcsJXbiieyL3WUMe07c3JQADljW698gAAAA"
         },
         {
-          "name": "Domino's Pizza",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQwhIqWa5PxVd6amM_d4dBSXhqkNFGZSrTNgWH&s=0",
-          "link": "https://www.google.com/search?gl=au&q=dominos&stick=H4sIAAAAAAAAAOOQUeLUz9U3ME7OKc81Ek5LLC5RSMvPT1FIzs8tSMzLTC2OEirPSCxRyCxWyE1Oyc9LzElRLz7FCNZkaGZgWHiKkQPEtkxON4Mxk8xKTjFygZgmeUY5JelQ5WA7oGyj5OSSQrgxFmkpcGPS4MIWyfFFUOE080KTX4zCbpjOW8TKnpKfm5mXX3yLTZLB9GMrU43_hKM3JWtZIqVOVHosNJDgjjWMAQDUTGwG5wAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Qs9oBKAR6BAgoEAY",
-          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=dominos&stick=H4sIAAAAAAAAAOOQUeLUz9U3ME7OKc81Ek5LLC5RSMvPT1FIzs8tSMzLTC2OEirPSCxRyCxWyE1Oyc9LzElRLz7FCNZkaGZgWHiKkQPEtkxON4Mxk8xKTjFygZgmeUY5JelQ5WA7oGyj5OSSQrgxFmkpcGPS4MIWyfFFUOE080KTX4zCbpjOW8TKnpKfm5mXX3yLTZLB9GMrU43_hKM3JWtZIqVOVHosNJDgjjWMAQDUTGwG5wAAAA"
+          "name": "Abraham Lincoln",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpFPpqhGH1g7F3rbutAtxYmC-UT-79by5qbKeO3pnw-g2w0l-vVPif&s=0",
+          "link": "https://www.google.com/search?gl=au&q=Abraham+Lincoln&stick=H4sIAAAAAAAAAOOQUWLXz9U3SK_KMOItLVYoKEotzkxJzSspjlItz8hXyCxWKMlIVUjLLCouQUgq5KcpJOamFmUmJ55i5ADpNzYpSoEyzZOTimGi8VlAJieIaWiUXmF0ihFmGVQ0ubDE0gCq2MTIJBcqbJSblVsEZVsmmVXB2CnG2YYmvxj5Q_WC9ZCc2sDCuIiV3zGpKDEjMVfBJzMvOT8n7xabJIPpx1amxoT7N4VywlduKJ7IvdZQx7TtzclAAAahrxL2AAAA&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Qs9oBKAR6BAg3EAY",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=Abraham+Lincoln&stick=H4sIAAAAAAAAAOOQUWLXz9U3SK_KMOItLVYoKEotzkxJzSspjlItz8hXyCxWKMlIVUjLLCouQUgq5KcpJOamFmUmJ55i5ADpNzYpSoEyzZOTimGi8VlAJieIaWiUXmF0ihFmGVQ0ubDE0gCq2MTIJBcqbJSblVsEZVsmmVXB2CnG2YYmvxj5Q_WC9ZCc2sDCuIiV3zGpKDEjMVfBJzMvOT8n7xabJIPpx1amxoT7N4VywlduKJ7IvdZQx7TtzclAAAahrxL2AAAA"
         },
         {
-          "name": "Chick‑fil‑A",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoConm5ffVXfdXZugdKHo-9KHsZzwvgODmODS4&s=0",
-          "link": "https://www.google.com/search?gl=au&q=Chick-fil-A&stick=H4sIAAAAAAAAAOOQUeLUz9U3MEpOLik0Ek5LLC5RSMvPT1FIzs8tSMzLTC2OEirPSCxRyCxWyE1Oyc9LzElRLz7FCNZkaGZgWHiKkQPEtkxON4Mxk8xKTjFygZgmeUY5JelQ5cbJOeW5UDbYPrgxFmkpcGPS4MIWyfFFUOE080KTX4zCbpjOW8TK7ZyRmZytm5aZo-t4i02SwfRjK1ON_4SjNyVrWSKlTlR6LDSQ4I41jAEAKlXJW-sAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Qs9oBKAV6BAgoEAc",
-          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=Chick-fil-A&stick=H4sIAAAAAAAAAOOQUeLUz9U3MEpOLik0Ek5LLC5RSMvPT1FIzs8tSMzLTC2OEirPSCxRyCxWyE1Oyc9LzElRLz7FCNZkaGZgWHiKkQPEtkxON4Mxk8xKTjFygZgmeUY5JelQ5cbJOeW5UDbYPrgxFmkpcGPS4MIWyfFFUOE080KTX4zCbpjOW8TK7ZyRmZytm5aZo-t4i02SwfRjK1ON_4SjNyVrWSKlTlR6LDSQ4I41jAEAKlXJW-sAAAA"
+          "name": "Donald Trump",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpOv0aV7go_6CiYrGKjgSj7elmGkXenmdpjn0uAA2xD-79IvMGq8_b&s=0",
+          "link": "https://www.google.com/search?gl=au&q=Donald+Trump&stick=H4sIAAAAAAAAAOOQUeLUz9U3SC4ssTQw4i0tVigoSi3OTEnNKymOUi3PyFfILFYoyUhVSMssKi5BSCrkpykk5qYWZSYnnmLkAJlgbFKUAmWaJycVw0Tjs4BMsBWGRukVRqcY2UHs9KoMqCjYYqhiEyOTXKiwUW5WbhGUbZlkVgVjpxhnG5r8YuQP1QvWQ3JqAwvjIlYel_y8xJwUhZCi0tyCW2ySDKYfW5kaE-7fFMoJX7mheCL3WkMd07Y3JwMBFz38SfUAAAA&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Qs9oBKAV6BAg3EAc",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=Donald+Trump&stick=H4sIAAAAAAAAAOOQUeLUz9U3SC4ssTQw4i0tVigoSi3OTEnNKymOUi3PyFfILFYoyUhVSMssKi5BSCrkpykk5qYWZSYnnmLkAJlgbFKUAmWaJycVw0Tjs4BMsBWGRukVRqcY2UHs9KoMqCjYYqhiEyOTXKiwUW5WbhGUbZlkVgVjpxhnG5r8YuQP1QvWQ3JqAwvjIlYel_y8xJwUhZCi0tyCW2ySDKYfW5kaE-7fFMoJX7mheCL3WkMd07Y3JwMBFz38SfUAAAA"
         }
       ],
-      "see_more_link": "https://www.google.com/search?gl=au&q=Fast+food+companies&stick=H4sIAAAAAAAAAOOQMRJOSywuUUjLz09RSM7PLUjMy0wtjhIqz0gsUcgsVshNTsnPS8xJUS8-xcipn6tvYGhmYFh4ipEDxLZMTjeDMZPMSk4xcoGYJnlGOSXpUOXGyTnluVC2UXJySSHcGIu0FLgxaXBhi-T4IqhwmnmhyS9GYTdM5y1ixSZ6i02SwfRjK1ON_4SjNyVrWSKlTlR6LDSQ4I41jAEADR1CV-gAAAA&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q4qYDegQIKBAI",
-      "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=Fast+food+companies&stick=H4sIAAAAAAAAAOOQMRJOSywuUUjLz09RSM7PLUjMy0wtjhIqz0gsUcgsVshNTsnPS8xJUS8-xcipn6tvYGhmYFh4ipEDxLZMTjeDMZPMSk4xcoGYJnlGOSXpUOXGyTnluVC2UXJySSHcGIu0FLgxaXBhi-T4IqhwmnmhyS9GYTdM5y1ixSZ6i02SwfRjK1ON_4SjNyVrWSKlTlR6LDSQ4I41jAEADR1CV-gAAAA"
+      "see_more_link": "https://www.google.com/search?gl=au&q=U.S.+presidents&stick=H4sIAAAAAAAAAOOQMeItLVYoKEotzkxJzSspjlItz8hXyCxWKMlIVUjLLCouQUgq5KcpJOamFmUmJ55i5NDP1TcwNilKgTLNk5OKYaLxWUAmJ4hpaJReYXSKkR3ETq_KgIomF5ZYGkAVmxiZ5EKFjXKzcougbMsksyoYO8U429DkFyN_qF6wHpJTG1gYF7GiC95ik2Qw_djK1Jhw_6ZQTvjKDcUTudca6pi2vTkZCABPqtAl7QAAAA&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Q4qYDegQINxAI",
+      "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=U.S.+presidents&stick=H4sIAAAAAAAAAOOQMeItLVYoKEotzkxJzSspjlItz8hXyCxWKMlIVUjLLCouQUgq5KcpJOamFmUmJ55i5NDP1TcwNilKgTLNk5OKYaLxWUAmJ4hpaJReYXSKkR3ETq_KgIomF5ZYGkAVmxiZ5EKFjXKzcougbMsksyoYO8U429DkFyN_qF6wHpJTG1gYF7GiC95ik2Qw_djK1Jhw_6ZQTvjKDcUTudca6pi2vTkZCABPqtAl7QAAAA"
+    },
+    {
+      "title": "Where did George Washington Live",
+      "items": [
+        {
+          "name": "Westmorel... County",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXkIUcZ2rW1gi16gpVhfl8RdTfJnW7BnFaOC_t1C7IxrC8AxA_D0xo&s=0",
+          "link": "https://www.google.com/search?gl=au&q=Westmoreland+County,+Virginia&stick=H4sIAAAAAAAAAOOQUeLQz9U3yM2tzDFSKM9ILUpVSMlMUUhPzS9KT1UoTyzOyMxLL8nPU8jJLEuNUi3PyFfILFYoyUhVSMssKi5RKChKLc5MSc0rUchPU0jMTS3KTE48xQg38xQjJ4hpaFxmlAYVTknOSYcKG8UbWZhBhQ3NjMp-MSqEw53gDnFCOMIJPkAnNLAwLmKVDU8tLsnNL0rNScxLUXDOL80rqdRRCMssSs_My0y8xSbJYPqxlSm3yFt38_vgb4--c93l3yIlZxl2Ww0ASotzLvAAAAA&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Qs9oBKAB6BAg_EAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=Westmoreland+County%2C+Virginia&stick=H4sIAAAAAAAAAOOQUeLQz9U3yM2tzDFSKM9ILUpVSMlMUUhPzS9KT1UoTyzOyMxLL8nPU8jJLEuNUi3PyFfILFYoyUhVSMssKi5RKChKLc5MSc0rUchPU0jMTS3KTE48xQg38xQjJ4hpaFxmlAYVTknOSYcKG8UbWZhBhQ3NjMp-MSqEw53gDnFCOMIJPkAnNLAwLmKVDU8tLsnNL0rNScxLUXDOL80rqdRRCMssSs_My0y8xSbJYPqxlSm3yFt38_vgb4--c93l3yIlZxl2Ww0ASotzLvAAAAA"
+        },
+        {
+          "name": "George Washingto... Mount Ver...",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRIbDSiUbVKtgEHZRbdXsG2mCWQIajsSx-FdiofdiplRQOerOHuRgqXNjs&s=19",
+          "link": "https://www.google.com/search?gl=au&q=Mount+Vernon&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDQuM0ozUijPSC1KVUjJTFFIT80vSk9VKE8szsjMSy_Jz1PIySxLjVItz8hXyCxWKMlIVUjLLCouUSgoSi3OTEnNK1HIT1NIzE0tykxOPMXIATI0N7cy5xQjwnyocEpyTjpU2CjeyMIMKmxoZlT2i1EhHO4Ed4gTwhFO8AE6oYGFcRErj29-KdDGsNSivPy8W2ySDKYfW5lyi7x1N78P_vboO9dd_i1ScpZht9UAjXDLleAAAAA&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Qs9oBKAF6BAg_EAM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=Mount+Vernon&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDQuM0ozUijPSC1KVUjJTFFIT80vSk9VKE8szsjMSy_Jz1PIySxLjVItz8hXyCxWKMlIVUjLLCouUSgoSi3OTEnNK1HIT1NIzE0tykxOPMXIATI0N7cy5xQjwnyocEpyTjpU2CjeyMIMKmxoZlT2i1EhHO4Ed4gTwhFO8AE6oYGFcRErj29-KdDGsNSivPy8W2ySDKYfW5lyi7x1N78P_vboO9dd_i1ScpZht9UAjXDLleAAAAA"
+        },
+        {
+          "name": "Philadelphia",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSgK6RuuYb6RxD_nqdP1TuZbvgST85DvPbDv9xJYtx8EFg4B4LRPRh4xHDdrz8AOWpv_Dj7o_wO&s=19",
+          "link": "https://www.google.com/search?gl=au&q=Philadelphia&stick=H4sIAAAAAAAAAOOQUeLQz9U3SEnOSTdSKM9ILUpVSMlMUUhPzS9KT1UoTyzOyMxLL8nPU8jJLEuNUi3PyFfILFYoyUhVSMssKi5RKChKLc5MSc0rUchPU0jMTS3KTE48xQg2Mze3MucUIyeIaWhcZpQGFQZZBRU2ijeyMIMKG5oZlf1iVAiHO8Ed4oRwhBN8gE5oYGFcxMoTkJGZk5iSmlOQkZl4i02SwfRjK1Nukbfu5vfB3x5957rLv0VKzjLsthoAs8GRbd8AAAA&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Qs9oBKAJ6BAg_EAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=Philadelphia&stick=H4sIAAAAAAAAAOOQUeLQz9U3SEnOSTdSKM9ILUpVSMlMUUhPzS9KT1UoTyzOyMxLL8nPU8jJLEuNUi3PyFfILFYoyUhVSMssKi5RKChKLc5MSc0rUchPU0jMTS3KTE48xQg2Mze3MucUIyeIaWhcZpQGFQZZBRU2ijeyMIMKG5oZlf1iVAiHO8Ed4oRwhBN8gE5oYGFcxMoTkJGZk5iSmlOQkZl4i02SwfRjK1Nukbfu5vfB3x5957rLv0VKzjLsthoAs8GRbd8AAAA"
+        },
+        {
+          "name": "New York",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQiZ92eL2cLL2UyOtxkycguhQpr97TR8QDeqfDAEO5Jp7hCyCYAV8ONBKxJyf2lkOzhmWn5uP0T&s=19",
+          "link": "https://www.google.com/search?gl=au&q=New+York&stick=H4sIAAAAAAAAAOOQUeLUz9U3MIo3sjAzUijPSC1KVUjJTFFIT80vSk9VKE8szsjMSy_Jz1PIySxLjVItz8hXyCxWKMlIVUjLLCouUSgoSi3OTEnNK1HIT1NIzE0tykxOPMXIATI0N7cy5xQj2HxD4zKjNKhwSnJOOlQYbC1U2NDMqOwXo0I43AnuECeEI5zgA3RCAwvjIlYOv9Ryhcj8ouxbbJIMph9bmXKLvHU3vw_-9ug7113-LVJylmG31QAqFFVU3AAAAA&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Qs9oBKAN6BAg_EAU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=New+York&stick=H4sIAAAAAAAAAOOQUeLUz9U3MIo3sjAzUijPSC1KVUjJTFFIT80vSk9VKE8szsjMSy_Jz1PIySxLjVItz8hXyCxWKMlIVUjLLCouUSgoSi3OTEnNK1HIT1NIzE0tykxOPMXIATI0N7cy5xQj2HxD4zKjNKhwSnJOOlQYbC1U2NDMqOwXo0I43AnuECeEI5zgA3RCAwvjIlYOv9Ryhcj8ouxbbJIMph9bmXKLvHU3vw_-9ug7113-LVJylmG31QAqFFVU3AAAAA"
+        },
+        {
+          "name": "Barbados",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkrZysAdYE6d2sT6Li4-vHVf-1gtzNVc7nznkF&s=0",
+          "link": "https://www.google.com/search?gl=au&q=Barbados&stick=H4sIAAAAAAAAAOOQUeLQz9U3MDQzKjNSKM9ILUpVSMlMUUhPzS9KT1UoTyzOyMxLL8nPU8jJLEuNUi3PyFfILFYoyUhVSMssKi5RKChKLc5MSc0rUchPU0jMTS3KTE48xQg2Mze3MucUIyfYeOMyozSocEpyTjpU2CjeyMIMKgxywS9GhXC4E9whTghHOMEH6IQGFsZFrBxOiUVJiSn5xbfYJBlMP7Yy5RZ5625-H_zt0Xeuu_xbpOQsw26rAQCpmP8f2wAAAA&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Qs9oBKAR6BAg_EAY",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=Barbados&stick=H4sIAAAAAAAAAOOQUeLQz9U3MDQzKjNSKM9ILUpVSMlMUUhPzS9KT1UoTyzOyMxLL8nPU8jJLEuNUi3PyFfILFYoyUhVSMssKi5RKChKLc5MSc0rUchPU0jMTS3KTE48xQg2Mze3MucUIyfYeOMyozSocEpyTjpU2CjeyMIMKgxywS9GhXC4E9whTghHOMEH6IQGFsZFrBxOiUVJiSn5xbfYJBlMP7Yy5RZ5625-H_zt0Xeuu_xbpOQsw26rAQCpmP8f2wAAAA"
+        }
+      ],
+      "see_more_link": "https://www.google.com/search?gl=au&q=Where+did+George+Washington+Live&stick=H4sIAAAAAAAAAOOQMVIoz0gtSlVIyUxRSE_NL0pPVShPLM7IzEsvyc9TyMksS41SLc_IV8gsVijJSFVIyywqLlEoKEotzkxJzStRyE9TSMxNLcpMTjzFyKGfq2-Qm1uZc4qRE8Q0NC4zSoMKpyTnpEOFjeKNLMygwoZmRmW_GBXC4U5whzghHOEEH6ATGlgYF7ESVHWLTZLB9GMrU26Rt-7m98HfHn3nusu_RUrOMuy2GgDhPb1M6QAAAA&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Q4qYDegQIPxAH",
+      "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=Where+did+George+Washington+Live&stick=H4sIAAAAAAAAAOOQMVIoz0gtSlVIyUxRSE_NL0pPVShPLM7IzEsvyc9TyMksS41SLc_IV8gsVijJSFVIyywqLlEoKEotzkxJzStRyE9TSMxNLcpMTjzFyKGfq2-Qm1uZc4qRE8Q0NC4zSoMKpyTnpEOFjeKNLMygwoZmRmW_GBXC4U5whzghHOEEH6ATGlgYF7ESVHWLTZLB9GMrU26Rt-7m98HfHn3nusu_RUrOMuy2GgDhPb1M6QAAAA"
+    },
+    {
+      "title": "George Washington family",
+      "items": [
+        {
+          "name": "Martha Washington",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsyGHV7YX3qm7EoNlOvDiJsDImdXklkb6xxTiIRFNG1s74mbie5Qpo&s=0",
+          "link": "https://www.google.com/search?gl=au&q=Martha+Washington&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDRNKbcwkkhPzS9KT1UoTyzOyMxLL8nPU0hLzM3MqYxSLc_IV8gsVijJSFVIyywqLlEoKEotzkxJzStRyE9TSMxNLcpMTjzFiDAMyrbMyckphLKTck0MUxDi5TDx9GKzwtxTjFwgtlGxZVpWCUyiKKnQHK6hsCALrsHA2PgXo4Q7xLnh6M5tYGFcxCrom1hUkpGIJHuLTZLB9GMrU2tAZ6Gcdlit_N0lX9LneXWurpwkCgAPukZcCQEAAA&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Qs9oBKAB6BAg6EAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=Martha+Washington&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDRNKbcwkkhPzS9KT1UoTyzOyMxLL8nPU0hLzM3MqYxSLc_IV8gsVijJSFVIyywqLlEoKEotzkxJzStRyE9TSMxNLcpMTjzFiDAMyrbMyckphLKTck0MUxDi5TDx9GKzwtxTjFwgtlGxZVpWCUyiKKnQHK6hsCALrsHA2PgXo4Q7xLnh6M5tYGFcxCrom1hUkpGIJHuLTZLB9GMrU2tAZ6Gcdlit_N0lX9LneXWurpwkCgAPukZcCQEAAA"
+        },
+        {
+          "name": "Lawrence Washington",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1y743hLYmI45crmfqY2MUqBcpKBC23t79u2nRug4fxhXwwFgZGxIv&s=0",
+          "link": "https://www.google.com/search?gl=au&q=Lawrence+Washington&stick=H4sIAAAAAAAAAOOQUeLUz9U3sMzJySk0kkhPzS9KT1UoTyzOyMxLL8nPU0hLzM3MqYxSLc_IV8gsVijJSFVIyywqLlEoKEotzkxJzStRyE9TSMxNLcpMTjzFCDbM0DSl3ALKBhsMZSflmhimIMTLYeLpxWaFuacYuUBso2LLtKwSmERRUqE5XENhQRZcg4Gx8S9GCXeIc8PRndvAwriIVdgnsbwoNS8ZWf4WmySD6cdWptaAzkI57bBa-btLvqTP8-pcXTlJFADJ6hl1CwEAAA&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Qs9oBKAF6BAg6EAM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=Lawrence+Washington&stick=H4sIAAAAAAAAAOOQUeLUz9U3sMzJySk0kkhPzS9KT1UoTyzOyMxLL8nPU0hLzM3MqYxSLc_IV8gsVijJSFVIyywqLlEoKEotzkxJzStRyE9TSMxNLcpMTjzFCDbM0DSl3ALKBhsMZSflmhimIMTLYeLpxWaFuacYuUBso2LLtKwSmERRUqE5XENhQRZcg4Gx8S9GCXeIc8PRndvAwriIVdgnsbwoNS8ZWf4WmySD6cdWptaAzkI57bBa-btLvqTP8-pcXTlJFADJ6hl1CwEAAA"
+        },
+        {
+          "name": "Mary Ball Washington",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0J027uxcquu92KdRJlWamaDasgvP9sT3LEQlWZwanpf_IZJFS7v_k&s=0",
+          "link": "https://www.google.com/search?gl=au&q=Mary+Ball+Washington&stick=H4sIAAAAAAAAAOOQUeLUz9U3SMo1MUwxkkhPzS9KT1UoTyzOyMxLL8nPU0hLzM3MqYxSLc_IV8gsVijJSFVIyywqLlEoKEotzkxJzStRyE9TSMxNLcpMTjzFCDbM0DSl3ALKtszJySmEssGWIMTLYeLpxWaFuacYuUBso2LLtKwSmERRUqE5XENhQRZcg4Gx8S9GCXeIc8PRndvAwriIVcQ3sahSwSkxJwdJwS02SQbTj61MrQGdhXLaYbXyd5d8SZ_n1bm6cpIoAEOxsxQMAQAA&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Qs9oBKAJ6BAg6EAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=Mary+Ball+Washington&stick=H4sIAAAAAAAAAOOQUeLUz9U3SMo1MUwxkkhPzS9KT1UoTyzOyMxLL8nPU0hLzM3MqYxSLc_IV8gsVijJSFVIyywqLlEoKEotzkxJzStRyE9TSMxNLcpMTjzFCDbM0DSl3ALKtszJySmEssGWIMTLYeLpxWaFuacYuUBso2LLtKwSmERRUqE5XENhQRZcg4Gx8S9GCXeIc8PRndvAwriIVcQ3sahSwSkxJwdJwS02SQbTj61MrQGdhXLaYbXyd5d8SZ_n1bm6cpIoAEOxsxQMAQAA"
+        },
+        {
+          "name": "Augustine Washington",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG_SrE2e_UIon3yNV4xLmNB3x5sGd5C1wCMzNCwyG5qv3bOigw6OnI&s=0",
+          "link": "https://www.google.com/search?gl=au&q=Augustine+Washington&stick=H4sIAAAAAAAAAOOQUeLUz9U3sMzJKS80kkhPzS9KT1UoTyzOyMxLL8nPU0hLzM3MqYxSLc_IV8gsVijJSFVIyywqLlEoKEotzkxJzStRyE9TSMxNLcpMTjzFCDbM0DSl3ALKBhqcUwhlJ-WaGKYgxMth4unFZoW5pxi5QGyjYsu0rBKYRFFSoTlcQ2FBFlyDgbHxL0YJd4hzw9Gd28DCuIhVxLE0vbS4JDMPWcEtNkkG04-tTK0BnYVy2mG18neXfEmf59W5unKSKABZSAjfDAEAAA&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Qs9oBKAN6BAg6EAU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=Augustine+Washington&stick=H4sIAAAAAAAAAOOQUeLUz9U3sMzJKS80kkhPzS9KT1UoTyzOyMxLL8nPU0hLzM3MqYxSLc_IV8gsVijJSFVIyywqLlEoKEotzkxJzStRyE9TSMxNLcpMTjzFCDbM0DSl3ALKBhqcUwhlJ-WaGKYgxMth4unFZoW5pxi5QGyjYsu0rBKYRFFSoTlcQ2FBFlyDgbHxL0YJd4hzw9Gd28DCuIhVxLE0vbS4JDMPWcEtNkkG04-tTK0BnYVy2mG18neXfEmf59W5unKSKABZSAjfDAEAAA"
+        },
+        {
+          "name": "John Augustine Washington",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7A0XoTWP9SQKFK6ELWdd_eyr4tO43IYWHSdyJVTFAOJRP4iHHmr8d&s=0",
+          "link": "https://www.google.com/search?gl=au&q=John+Augustine+Washington&stick=H4sIAAAAAAAAAOOQUeLUz9U3SC82K8w1kkhPzS9KT1UoTyzOyMxLL8nPU0hLzM3MqYxSLc_IV8gsVijJSFVIyywqLlEoKEotzkxJzStRyE9TSMxNLcpMTjzFCDbM0DSl3ALKtszJySmEspNyTQxTEOLlMHGw5acYuUBso2LLtKwSmERRUqE5XENhQRZcg4Gx8S9GCXeIc8PRndvAwriIVdIrPyNPwbE0vbS4JDMPWdUtNkkG04-tTK0BnYVy2mG18neXfEmf59W5unKSKABf-tF-EQEAAA&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Qs9oBKAR6BAg6EAY",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=John+Augustine+Washington&stick=H4sIAAAAAAAAAOOQUeLUz9U3SC82K8w1kkhPzS9KT1UoTyzOyMxLL8nPU0hLzM3MqYxSLc_IV8gsVijJSFVIyywqLlEoKEotzkxJzStRyE9TSMxNLcpMTjzFCDbM0DSl3ALKtszJySmEspNyTQxTEOLlMHGw5acYuUBso2LLtKwSmERRUqE5XENhQRZcg4Gx8S9GCXeIc8PRndvAwriIVdIrPyNPwbE0vbS4JDMPWdUtNkkG04-tTK0BnYVy2mG18neXfEmf59W5unKSKABf-tF-EQEAAA"
+        },
+        {
+          "name": "Mildred Washington",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ-N4ANUp2OPRLPjd7v9c9z-ZDG3eMhh21ynmhLYgxIEglK9idbOYB&s=0",
+          "link": "https://www.google.com/search?gl=au&q=Mildred+Washington&stick=H4sIAAAAAAAAAOOQUeLSz9U3MCq2TMsqMZJIT80vSk9VKE8szsjMSy_Jz1NIS8zNzKmMUi3PyFfILFYoyUhVSMssKi5RKChKLc5MSc0rUchPU0jMTS3KTE48xcgJMs3QNKXcAsq2zMnJKYSyk3JNDFMQ4uUw8fRis8LcU4xILoFJFCUVmsM1FBZkwTUYGBv_YpRwhzg3HN25DSyMi1iFfDNzUopSU5Ckb7FJMph-bGVqDegslNMOq5W_u-RL-jyvztWVk0QBH3u2ygsBAAA&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Qs9oBKAV6BAg6EAc",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=Mildred+Washington&stick=H4sIAAAAAAAAAOOQUeLSz9U3MCq2TMsqMZJIT80vSk9VKE8szsjMSy_Jz1NIS8zNzKmMUi3PyFfILFYoyUhVSMssKi5RKChKLc5MSc0rUchPU0jMTS3KTE48xcgJMs3QNKXcAsq2zMnJKYSyk3JNDFMQ4uUw8fRis8LcU4xILoFJFCUVmsM1FBZkwTUYGBv_YpRwhzg3HN25DSyMi1iFfDNzUopSU5Ckb7FJMph-bGVqDegslNMOq5W_u-RL-jyvztWVk0QBH3u2ygsBAAA"
+        }
+      ],
+      "see_more_link": "https://www.google.com/search?gl=au&q=George+Washington+family&stick=H4sIAAAAAAAAAOOQMZJIT80vSk9VKE8szsjMSy_Jz1NIS8zNzKmMUi3PyFfILFYoyUhVSMssKi5RKChKLc5MSc0rUchPU0jMTS3KTE48xcipn6tvYGiaUm4BZVvm5OQUQtlJuSaGKQjxcph4erFZYe4pRi4Q26jYMi2rBCZRlFRoDtdQWJAF12BgbPyLUcId4txwdOc2sDAuYsUpe4tNksH0YytTa0BnoZx2WK383SVf0ud5da6unCQKAAJWlc0FAQAA&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Q4qYDegQIOhAI",
+      "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=George+Washington+family&stick=H4sIAAAAAAAAAOOQMZJIT80vSk9VKE8szsjMSy_Jz1NIS8zNzKmMUi3PyFfILFYoyUhVSMssKi5RKChKLc5MSc0rUchPU0jMTS3KTE48xcipn6tvYGiaUm4BZVvm5OQUQtlJuSaGKQjxcph4erFZYe4pRi4Q26jYMi2rBCZRlFRoDtdQWJAF12BgbPyLUcId4txwdOc2sDAuYsUpe4tNksH0YytTa0BnoZx2WK383SVf0ud5da6unCQKAAJWlc0FAQAA"
     }
   ],
   "related_questions": [
     {
-      "question": "What is McDonald's known for?",
-      "snippet": "McDonald's, in full McDonald's Corporation, American fast-food chain that is one of the largest in the world, known for its hamburgers, especially its Big Macs. Company headquarters are in Chicago.",
-      "title": "McDonald's | History, Ray Kroc, & Facts - Encyclopedia ...",
-      "link": "https://www.britannica.com/topic/McDonalds",
-      "displayed_link": "https://www.britannica.com › ... › Leisure & Nightlife"
+      "question": "Who was America's real first President?",
+      "snippet": "George Washington",
+      "title": "George Washington",
+      "link": "https://www.whitehouse.gov/about-the-white-house/presidents/george-washington/",
+      "displayed_link": "https://www.whitehouse.gov › ... › Presidents"
     },
     {
-      "question": "What does McDonald's stand for?",
-      "snippet": "The logo for McDonald's is the golden arches of the letter M on a red background. The M stands for McDonald's, but the rounded m represents mummy's mammaries, acccording the design consultant and psychologist Louis Cheskin.",
-      "title": "The M stands for McDonald's, but the rounded m represents ... - BBC",
-      "link": "https://www.bbc.co.uk/worldservice/specials/1616_fastfood/page6.shtml",
-      "displayed_link": "https://www.bbc.co.uk › specials › 1616_fastfood › page6"
+      "question": "Who is the world's first President?",
+      "title": "George Washington - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/George_Washington",
+      "displayed_link": "https://en.wikipedia.org › wiki › George_Washington"
     },
     {
-      "question": "What are 3 facts about mcdonalds?",
-      "title": "12 Hard-To-Believe Facts About McDonald's",
-      "link": "https://spoonuniversity.com/place/crazy-facts-about-mcdonalds-you-will-not-believe",
+      "question": "Who were the 8 presidents before George Washington?",
+      "title": "The Eight Presidents Before George Washington",
+      "link": "https://sites.google.com/site/georgewashingtonnotfirstprez/website-builder",
       "list": [
-        "A New McDonald's Opens Every 14.5 Hours. ... ",
-        "The Caesar Salad is More Fattening than their Hamburger. ... ",
-        "More People Eat at McDonald's Each Day than the Entire Population of the UK. ... ",
-        "They Are the World's Largest Toy Distributor. ... ",
-        "The McDonald's Arch is More Recognizable than the Holy Cross."
+        "John Hanson (1721-1783)",
+        "Elias Boudinot (1782-83)",
+        "Thomas Mifflin (1783-84)",
+        "Richard Henry Lee (1784-85)",
+        "John Hancock (1785-86)",
+        "Nathan Gorman (1786-87)",
+        "Arthur St. Clair (1787-88)",
+        "Cyrus Griffin (1788-89)"
       ],
-      "displayed_link": "https://spoonuniversity.com › place › crazy-facts-about-m..."
+      "displayed_link": "https://sites.google.com › site › website-builder"
+    },
+    {
+      "question": "Who is the second President of America?",
+      "snippet": "John Adams",
+      "title": "John Adams",
+      "link": "https://www.whitehouse.gov/about-the-white-house/presidents/john-adams/",
+      "displayed_link": "https://www.whitehouse.gov › presidents › john-adams"
     }
   ],
   "organic_results": [
     {
       "position": 1,
-      "title": "McDonald's - Wikipedia",
-      "link": "https://en.wikipedia.org/wiki/McDonald%27s",
-      "displayed_link": "https://en.wikipedia.org › wiki › McDonald's",
-      "snippet": "McDonald's Corporation is an American multinational fast food corporation, founded in 1940 as a restaurant operated by Richard and Maurice McDonald, ...",
+      "title": "George Washington | The White House",
+      "link": "https://www.whitehouse.gov/about-the-white-house/presidents/george-washington/",
+      "displayed_link": "https://www.whitehouse.gov › ... › Presidents",
+      "snippet": "On April 30, 1789, George Washington, standing on the balcony of Federal Hall on Wall Street in New York, took his oath of office as the first President.",
       "snippet_highlighted_words": [
-        "McDonald's",
-        "McDonald"
+        "first President"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The White House is the official residence and workplace of the president of the United States. It is located at 1600 Pennsylvania Avenue NW in Washington, D.C., and has been the residence of every U.S. president since John Adams in 1800.",
+          "icon": "https://serpapi.com/searches/629d5d2ca4bb38fa59d1dd1b/images/79cf8b0046249c4e4c3b8ef54a68587896534a49c169baef365208afb75deb6500c030a41938c8748b7ec1ab81ee6531.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.whitehouse.gov/about-the-white-house/presidents/george-washington/&tbm=ilp&ilps=ADNMCi3U11_usULsxDuSiuGq3dnnqdb-hA",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:0nrZPc1NzuUJ:https://www.whitehouse.gov/about-the-white-house/presidents/george-washington/+&cd=1&hl=en&ct=clnk&gl=au",
+      "related_results": [
+        {
+          "position": 1,
+          "title": "Presidents | The White House",
+          "link": "https://www.whitehouse.gov/about-the-white-house/presidents/",
+          "displayed_link": "https://www.whitehouse.gov › about-the-white-house",
+          "snippet": "Presidents ; George Washington. The 1st President of the United States ; John Adams. The 2nd President of the United States ; Thomas Jefferson. The 3rd President ...",
+          "snippet_highlighted_words": [
+            "Presidents",
+            "1st President",
+            "President",
+            "President"
+          ],
+          "about_this_result": {
+            "source": {
+              "description": "The White House is the official residence and workplace of the president of the United States. It is located at 1600 Pennsylvania Avenue NW in Washington, D.C., and has been the residence of every U.S. president since John Adams in 1800.",
+              "icon": "https://serpapi.com/searches/629d5d2ca4bb38fa59d1dd1b/images/79cf8b0046249c4e4c3b8ef54a685878aeb913eb335959d48d69c15401b74fb1a125088a7da5196c9d21eb6c2b3ea89ed2e24e49592ef4aba1900f9cf73453c7a215efe166c2a981.png"
+            }
+          },
+          "about_page_link": "https://www.google.com/search?q=About+https://www.whitehouse.gov/about-the-white-house/presidents/&tbm=ilp&ilps=ADNMCi0CJYWcKMrdf9pP6SfuHH1qXocqxg",
+          "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:53h1vQNyM3MJ:https://www.whitehouse.gov/about-the-white-house/presidents/+&cd=2&hl=en&ct=clnk&gl=au"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "George Washington - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/George_Washington",
+      "displayed_link": "https://en.wikipedia.org › wiki › George_Washington",
+      "snippet": "George Washington was an American military officer, statesman, and Founding Father who served as the 1st president of the United States from 1789 to 1797.",
+      "snippet_highlighted_words": [
+        "American",
+        "1st president"
       ],
       "sitelinks": {
         "inline": [
           {
-            "title": "History",
-            "link": "https://en.wikipedia.org/wiki/History_of_McDonald%27s"
+            "title": "French and Indian War",
+            "link": "https://en.wikipedia.org/wiki/George_Washington#French_and_Indian_War"
           },
           {
-            "title": "Richard and Maurice McDonald",
-            "link": "https://en.wikipedia.org/wiki/Richard_and_Maurice_McDonald"
+            "title": "Opposition to British...",
+            "link": "https://en.wikipedia.org/wiki/George_Washington#Opposition_to_British_Parliament_and_Crown"
           },
           {
-            "title": "Ray Kroc",
-            "link": "https://en.wikipedia.org/wiki/Ray_Kroc"
-          },
-          {
-            "title": "Chris Kempczinski",
-            "link": "https://en.wikipedia.org/wiki/Chris_Kempczinski"
+            "title": "Invasion of Quebec (1775)",
+            "link": "https://en.wikipedia.org/wiki/George_Washington#Invasion_of_Quebec_(1775)"
           }
         ]
-      },
-      "rich_snippet": {
-        "bottom": {
-          "detected_extensions": {
-            "number_of_employees_approx": null,
-            "price": 32811,
-            "currency": "Total assets US$ billion ()",
-            "number_of_locations_restaurants": 38695
-          },
-          "extensions": [
-            "Number of employees: Approx. 200,000 (2020)",
-            "Net income: US$6.025 billion (2019)",
-            "Number of locations: 38,695 restaurants (2019)",
-            "Total assets: US$32.811 billion (2018)"
-          ]
-        }
       },
       "about_this_result": {
         "source": {
           "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
-          "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
-          "icon": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/53323849c459c5573214b95b207d8dcddac658eb2282bf92bcd307fcc5fe54e8b25f72d70cf66ec6ac149eb48200d895.png"
+          "icon": "https://serpapi.com/searches/629d5d2ca4bb38fa59d1dd1b/images/79cf8b0046249c4e4c3b8ef54a685878241a6fb690926c59035d41682f6e2e44f24f85decfbb86dd31be4aa33b7c25e8.png"
         }
       },
-      "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/McDonald%2527s&tbm=ilp&ilps=ADNMCi1pmk-V5dJTSfwVjRkAuT7IkvRmyA",
-      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:tg3qNrQIjRwJ:https://en.wikipedia.org/wiki/McDonald%2527s+&cd=1&hl=en&ct=clnk&gl=au",
-      "related_pages_link": "https://www.google.com/search?gl=au&q=related:https://en.wikipedia.org/wiki/McDonald%2527s+what+is+mcdonald%27s"
-    },
-    {
-      "position": 2,
-      "title": "McDonald's | History, Ray Kroc, & Facts - Encyclopedia ...",
-      "link": "https://www.britannica.com/topic/McDonalds",
-      "displayed_link": "https://www.britannica.com › ... › Leisure & Nightlife",
-      "thumbnail": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/53323849c459c5573214b95b207d8dcda508505cd14036155c08c0d90cca5246.jpeg",
-      "snippet": "McDonald's, in full McDonald's Corporation, American fast-food chain that is one of the largest in the world, known for its hamburgers, especially its Big ...",
-      "snippet_highlighted_words": [
-        "McDonald's",
-        "McDonald's"
-      ],
-      "sitelinks": {
-        "inline": [
-          {
-            "title": "Expansion and products",
-            "link": "https://www.britannica.com/topic/McDonalds/Expansion-and-products"
-          },
-          {
-            "title": "Related content",
-            "link": "https://www.britannica.com/facts/McDonalds"
-          },
-          {
-            "title": "Ray Kroc",
-            "link": "https://www.britannica.com/biography/Ray-Kroc"
-          }
-        ]
-      },
-      "rich_snippet": {
-        "bottom": {
-          "detected_extensions": {
-            "date": 1955
-          },
-          "extensions": [
-            "Date: 1955",
-            "presentRelated People: Steve Easterbrook"
-          ]
-        }
-      },
-      "about_this_result": {
-        "source": {
-          "description": "britannica.com was first indexed by Google more than 10 years ago",
-          "icon": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/53323849c459c5573214b95b207d8dcda36ea67188b24b1be236037afddb6c9e63ad33e42f302d3fa27f0b8da94ba425.png"
-        }
-      },
-      "about_page_link": "https://www.google.com/search?q=About+https://www.britannica.com/topic/McDonalds&tbm=ilp&ilps=ADNMCi0FFVnm8PFiYvPDLE2i5ywJ2u6LrQ",
-      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:FFypVodAc2AJ:https://www.britannica.com/topic/McDonalds+&cd=9&hl=en&ct=clnk&gl=au"
-    },
-    {
-      "position": 3,
-      "title": "About Us: McDonald's Facts and Story",
-      "link": "https://www.mcdonalds.com/us/en-us/about-us.html",
-      "displayed_link": "https://www.mcdonalds.com › en-us › about-us",
-      "thumbnail": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/53323849c459c5573214b95b207d8dcd39a7d5e6ee7289b3165451032aa41843.jpeg",
-      "snippet": "Back in 1954, a man named Ray Kroc discovered a small burger restaurant in California, and wrote the first page of our history. From humble beginnings as a ...",
-      "sitelinks": {
-        "inline": [
-          {
-            "title": "Our History",
-            "link": "https://www.mcdonalds.com/us/en-us/about-us/our-history.html"
-          },
-          {
-            "title": "Values In Action",
-            "link": "https://www.mcdonalds.com/us/en-us/about-us/values-in-action.html"
-          },
-          {
-            "title": "Recalls & Alerts",
-            "link": "https://www.mcdonalds.com/us/en-us/about-us/recalls.html"
-          }
-        ]
-      },
-      "about_this_result": {
-        "source": {
-          "description": "McDonald's Corporation is an American multinational fast food corporation, founded in 1940 as a restaurant operated by Richard and Maurice McDonald, in San Bernardino, California, United States.",
-          "source_info_link": "https://en.wikipedia.org/wiki/McDonald's",
-          "icon": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/53323849c459c5573214b95b207d8dcd98422da03c854827cee23ad1a628a1ab26d7c796905494cdf0fc3bdae4fa18cc.png"
-        }
-      },
-      "about_page_link": "https://www.google.com/search?q=About+https://www.mcdonalds.com/us/en-us/about-us.html&tbm=ilp&ilps=ADNMCi3uNYGaQWXJbHanhVJX1O1fsA1V8A",
-      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:E-TkRGrN0bUJ:https://www.mcdonalds.com/us/en-us/about-us.html+&cd=10&hl=en&ct=clnk&gl=au",
-      "related_pages_link": "https://www.google.com/search?gl=au&q=related:https://www.mcdonalds.com/us/en-us/about-us.html+what+is+mcdonald%27s"
-    },
-    {
-      "position": 4,
-      "title": "Our Story | About Macca's | McDonald's AU",
-      "link": "https://mcdonalds.com.au/about-maccas/maccas-story",
-      "displayed_link": "https://mcdonalds.com.au › about-maccas › maccas-story",
-      "snippet": "McDonald's Australia Limited is an unlisted Australian public company. It's a franchise business with more than 80% of Australian restaurants owned and ...",
-      "snippet_highlighted_words": [
-        "McDonald's"
-      ],
-      "about_this_result": {
-        "source": {
-          "description": "mcdonalds.com.au was first indexed by Google more than 10 years ago",
-          "icon": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/53323849c459c5573214b95b207d8dcd8b7409acb040aa44f92d6a76bf46cd39c7ee8243e0f28239bc2e2d6afd6f0661.png"
-        }
-      },
-      "about_page_link": "https://www.google.com/search?q=About+https://mcdonalds.com.au/about-maccas/maccas-story&tbm=ilp&ilps=ADNMCi2CUlrAgzA8Kl1EMgrVOaW3eg-SBg",
-      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:8NjOTROkPd4J:https://mcdonalds.com.au/about-maccas/maccas-story+&cd=11&hl=en&ct=clnk&gl=au",
-      "related_pages_link": "https://www.google.com/search?gl=au&q=related:https://mcdonalds.com.au/about-maccas/maccas-story+what+is+mcdonald%27s",
+      "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/George_Washington&tbm=ilp&ilps=ADNMCi0Ymxj8pR1BRBkn7BPdriiWw66szg",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:FFUOgXHZrEYJ:https://en.wikipedia.org/wiki/George_Washington+&cd=14&hl=en&ct=clnk&gl=au",
+      "related_pages_link": "https://www.google.com/search?gl=au&q=related:https://en.wikipedia.org/wiki/George_Washington+who+is+the+first+president+of+america",
       "related_results": [
         {
           "position": 1,
-          "title": "McDonald's Australia",
-          "link": "https://mcdonalds.com.au/",
-          "displayed_link": "https://mcdonalds.com.au",
-          "snippet": "The official website of Macca's® Australia. Whether you want the details of what's in your Big Mac®, or to find your nearest restaurant, this is the place ...",
+          "title": "List of presidents of the United States - Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States",
+          "displayed_link": "https://en.wikipedia.org › wiki › List_of_presidents_of_...",
+          "snippet": "The first president, George Washington, won a unanimous vote of the Electoral College; one, Grover Cleveland, served two non-consecutive terms and is therefore ...",
+          "snippet_highlighted_words": [
+            "first president"
+          ],
           "about_this_result": {
             "source": {
-              "description": "mcdonalds.com.au was first indexed by Google more than 10 years ago",
-              "icon": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/53323849c459c5573214b95b207d8dcdb4c5fd0b3774156e291f9f16cc62b56c3c8b8793338fcd39d687f3a13dfdd0a830cdc4cdc82d567dd1e32f0d95408b66d5c673e835768b75.png"
+              "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+              "icon": "https://serpapi.com/searches/629d5d2ca4bb38fa59d1dd1b/images/79cf8b0046249c4e4c3b8ef54a68587888a3feee6ca12d6f284795c3b7d1a586d924b31a748c57b59feb74759e15afba58813c2fdd8888f85b5824da15b242945561dabebdf31793.png"
             }
           },
-          "about_page_link": "https://www.google.com/search?q=About+https://mcdonalds.com.au/&tbm=ilp&ilps=ADNMCi1ReAUv94MiTfr4Nnj2RqyzFk_r2w",
-          "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:19X4m8Vp6AEJ:https://mcdonalds.com.au/+&cd=12&hl=en&ct=clnk&gl=au",
-          "related_pages_link": "https://www.google.com/search?gl=au&q=related:https://mcdonalds.com.au/+what+is+mcdonald%27s"
+          "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States&tbm=ilp&ilps=ADNMCi2h0BzyaRiLzK0SepudXBfg1uulsA",
+          "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:uT_qhnB4HUwJ:https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States+&cd=15&hl=en&ct=clnk&gl=au"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "title": "George Washington, first president of the United States",
+      "link": "https://www.loc.gov/resource/cph.3a09915",
+      "displayed_link": "https://www.loc.gov › resource",
+      "snippet": "(1828) George Washington, first president of the United States . , 1828. [?] [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/ ...",
+      "snippet_highlighted_words": [
+        "first president"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Library of Congress is the research library that officially serves the United States Congress and is the de facto national library of the United States. It is the oldest federal cultural institution in the country.",
+          "icon": "https://serpapi.com/searches/629d5d2ca4bb38fa59d1dd1b/images/79cf8b0046249c4e4c3b8ef54a68587838f7fb695df8aa39af2900f47320e5ed614eef35a45ff730833e54769244a375.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.loc.gov/resource/cph.3a09915&tbm=ilp&ilps=ADNMCi0pP4Sae9zwN_Z-C7uXyosHl2DcOw"
+    },
+    {
+      "position": 4,
+      "title": "First President - George Washington's Mount Vernon",
+      "link": "https://www.mountvernon.org/george-washington/the-first-president/",
+      "displayed_link": "https://www.mountvernon.org › george-washington › t...",
+      "snippet": "On January 8, 1790, President George Washington delivered to Congress the first State of the Union address in American history.",
+      "snippet_highlighted_words": [
+        "President",
+        "first",
+        "American"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "extensions": [
+            "Vice President: John Adams",
+            "Terms served: 2",
+            "States Joined the Union: North Carolina (1789), ...",
+            "Unanimously elected: February 4, 1789",
+            "Vice President: John Adams",
+            "Unanimously elected: February 4, 1789",
+            "States Joined the Union: North Carolina (1789), ...",
+            "Inauguration: April 30, 1789"
+          ],
+          "detected_extensions": {
+            "terms_served": 2,
+            "states_joined_the_union_north_carolina": 1789,
+            "unanimously_elected_february": 4,
+            "inauguration_april": 30
+          }
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Mount Vernon is an American landmark and former plantation of George Washington, the first president of the United States, and his wife, Martha. The estate is on the banks of the Potomac River in Fairfax County, Virginia.",
+          "icon": "https://serpapi.com/searches/629d5d2ca4bb38fa59d1dd1b/images/79cf8b0046249c4e4c3b8ef54a685878faa60b11a7100f3d9a0a57d1312e8927a6891c3bf8da3023aa93f6a72ea9700e.jpeg"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.mountvernon.org/george-washington/the-first-president/&tbm=ilp&ilps=ADNMCi2SFPVZk2OelkaK7HvWSWX7xAntOg",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:tuw1WdIoPIUJ:https://www.mountvernon.org/george-washington/the-first-president/+&cd=27&hl=en&ct=clnk&gl=au",
+      "related_results": [
+        {
+          "position": 1,
+          "title": "First President - George Washington's Mount Vernon",
+          "link": "https://www.mountvernon.org/education/for-students/first-president/",
+          "displayed_link": "https://www.mountvernon.org › education › for-students",
+          "snippet": "In 1789, George Washington was sworn in as the first President of the United States. During his two terms in office, Washington influenced the path for the ...",
+          "snippet_highlighted_words": [
+            "first President"
+          ],
+          "rich_snippet": {
+            "bottom": {
+              "extensions": [
+                "Vice President: John Adams",
+                "Unanimously elected: February 4, 1789",
+                "States Joined the Union: North Carolina (1789), ...",
+                "Inauguration: April 30, 1789"
+              ],
+              "detected_extensions": {
+                "unanimously_elected_february": 4,
+                "states_joined_the_union_north_carolina": 1789,
+                "inauguration_april": 30
+              }
+            }
+          },
+          "about_this_result": {
+            "source": {
+              "description": "Mount Vernon is an American landmark and former plantation of George Washington, the first president of the United States, and his wife, Martha. The estate is on the banks of the Potomac River in Fairfax County, Virginia.",
+              "icon": "https://serpapi.com/searches/629d5d2ca4bb38fa59d1dd1b/images/79cf8b0046249c4e4c3b8ef54a685878e4706263708374189e96aa416f987785e5a845eac856fa5adb096117df49aa9a1b98ebed8090eb4f82e709e754e1a7485818fda5b12d25b0.jpeg"
+            }
+          },
+          "about_page_link": "https://www.google.com/search?q=About+https://www.mountvernon.org/education/for-students/first-president/&tbm=ilp&ilps=ADNMCi1HfWAPawBQbtSjPwWOJabkAYpwaQ",
+          "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:17Ifu76tZQsJ:https://www.mountvernon.org/education/for-students/first-president/+&cd=28&hl=en&ct=clnk&gl=au"
         }
       ]
     },
     {
       "position": 5,
-      "title": "About: McDonald's - DBpedia",
-      "link": "https://dbpedia.org/page/McDonald's",
-      "displayed_link": "https://dbpedia.org › page › McDonald's",
-      "snippet": "McDonald's is an American fast food company, founded in 1940 as a restaurant operated by Richard and Maurice McDonald, in San Bernardino, California, ...",
+      "title": "George Washington: Facts, Revolution & Presidency - HISTORY",
+      "link": "https://www.history.com/topics/us-presidents/george-washington",
+      "displayed_link": "https://www.history.com › topics › us-presidents › geor...",
+      "date": "5 Jan 2022",
+      "snippet": "In 1787, he was elected president of the convention that wrote the U.S. Constitution. Two years later, Washington became America's first ...",
       "snippet_highlighted_words": [
-        "McDonald's",
-        "McDonald"
+        "president",
+        "America's first"
       ],
       "about_this_result": {
         "source": {
-          "description": "DBpedia is a project aiming to extract structured content from the information created in the Wikipedia project. This structured information is made available on the World Wide Web.",
-          "source_info_link": "https://en.wikipedia.org/wiki/DBpedia",
-          "icon": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/53323849c459c5573214b95b207d8dcde6ea66958f091bf1a25f222c09a5bdda11fa15cdc2e425bca59dee1b6e04e9ac.png"
+          "description": "History is an American pay television network and flagship channel owned by A&E Networks, a joint venture between Hearst Communications and the Disney General Entertainment Content division of the Walt Disney Company.\nThe network was originally focused on history-based as well as social and science documentaries.",
+          "icon": "https://serpapi.com/searches/629d5d2ca4bb38fa59d1dd1b/images/79cf8b0046249c4e4c3b8ef54a6858782796e0586a745459bab38035694442a6ea28e304a78af3115b9a0117ee0c4aed.png"
         }
       },
-      "about_page_link": "https://www.google.com/search?q=About+https://dbpedia.org/page/McDonald's&tbm=ilp&ilps=ADNMCi18ujNIus-S6pK-HL3D_WONxRxwLw",
-      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:JMBMVsQNfzsJ:https://dbpedia.org/page/McDonald%27s+&cd=13&hl=en&ct=clnk&gl=au"
+      "about_page_link": "https://www.google.com/search?q=About+https://www.history.com/topics/us-presidents/george-washington&tbm=ilp&ilps=ADNMCi3t3L4OezWMJobueI73IWhDcrC-Yw",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:4zNqMejTXkIJ:https://www.history.com/topics/us-presidents/george-washington+&cd=29&hl=en&ct=clnk&gl=au"
     },
     {
       "position": 6,
-      "title": "How McDonald's Makes Money: Franchising Fast Food",
-      "link": "https://www.investopedia.com/articles/markets/032015/how-mcdonalds-makes-its-money-mcd.asp",
-      "displayed_link": "https://www.investopedia.com › ... › Company Profiles",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7C1As6TNsgXzecRPQZrXLL_E6yyw_0iNzTaLh1XyfkpCVK2kIhnhR&usqp=CAE&s",
-      "snippet": "McDonald's makes money by leveraging its product, fast food, to franchisees who have to lease properties, often at large markups, that are owned by McDonald's.",
+      "title": "Who Was Really Our First President? A Lost Hero",
+      "link": "https://edsitement.neh.gov/curricula/who-was-really-our-first-president-lost-hero",
+      "displayed_link": "https://edsitement.neh.gov › curricula › who-was-really...",
+      "snippet": "In this curriculum unit, students look at the role of President as defined in the Articles of Confederation and consider the precedent-setting ...",
       "snippet_highlighted_words": [
-        "McDonald's",
-        "McDonald's"
+        "President"
       ],
       "about_this_result": {
         "source": {
-          "description": "Investopedia is a financial website headquartered in New York City. Founded in 1999, Investopedia provides investment dictionaries, advice, reviews, ratings, and comparisons of financial products such as securities accounts.",
-          "source_info_link": "https://en.wikipedia.org/wiki/Investopedia",
-          "icon": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/53323849c459c5573214b95b207d8dcd7f4c6df82ec4a1d07e25888067fcc196276b2bb56ddca958c2e2d5333e115f35.png"
+          "description": "The National Endowment for the Humanities is an independent federal agency of the U.S. government, established by the National Foundation on the Arts and the Humanities Act of 1965, dedicated to supporting research, education, preservation, and public programs in the humanities.",
+          "icon": "https://serpapi.com/searches/629d5d2ca4bb38fa59d1dd1b/images/79cf8b0046249c4e4c3b8ef54a68587819869e4d6a690494c5abd085d8c192e5f76dd52141f5a6f7df2ac1849d2c84e4.png"
         }
       },
-      "about_page_link": "https://www.google.com/search?q=About+https://www.investopedia.com/articles/markets/032015/how-mcdonalds-makes-its-money-mcd.asp&tbm=ilp&ilps=ADNMCi0Uiy8WoYluZ7ZBZsonbPkFuXcrEA",
-      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:GubFn_cPEZIJ:https://www.investopedia.com/articles/markets/032015/how-mcdonalds-makes-its-money-mcd.asp+&cd=24&hl=en&ct=clnk&gl=au"
-    },
-    {
-      "position": 7,
-      "title": "What does mcdonald's mean? - Definitions.net",
-      "link": "https://www.definitions.net/definition/mcdonald%27s",
-      "displayed_link": "https://www.definitions.net › definition › mcdonald's",
-      "snippet": "McDonald's primarily sells hamburgers, cheeseburgers, chicken, french fries, breakfast items, soft drinks, milkshakes and desserts. In response to changing ...",
-      "snippet_highlighted_words": [
-        "McDonald's"
-      ],
-      "about_this_result": {
-        "source": {
-          "description": "definitions.net was first indexed by Google more than 10 years ago",
-          "icon": "https://serpapi.com/searches/6280f29cc90e0a60af7ca2a9/images/53323849c459c5573214b95b207d8dcdc25569ffca81f89f01ea972f9c2bb2aae7c12c5f52f2e6fc0b86da46245765ca.png"
-        }
-      },
-      "about_page_link": "https://www.google.com/search?q=About+https://www.definitions.net/definition/mcdonald%2527s&tbm=ilp&ilps=ADNMCi3MUiC8uAAvg0ugne9utXSHhoQShg",
-      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:w_NC55s7kt0J:https://www.definitions.net/definition/mcdonald%2527s+&cd=25&hl=en&ct=clnk&gl=au"
+      "about_page_link": "https://www.google.com/search?q=About+https://edsitement.neh.gov/curricula/who-was-really-our-first-president-lost-hero&tbm=ilp&ilps=ADNMCi1sHWotNS6-SHsMEpfdiQ8ZgWJoTA",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:0o1iL-JzvacJ:https://edsitement.neh.gov/curricula/who-was-really-our-first-president-lost-hero+&cd=30&hl=en&ct=clnk&gl=au"
     }
   ],
   "related_searches": [
     {
-      "query": "what is mcdonald's number",
-      "link": "https://www.google.com/search?gl=au&q=What+is+McDonald%27s+number&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q1QJ6BAhAEAE"
+      "query": "american president list",
+      "link": "https://www.google.com/search?gl=au&q=American+president+list&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Q1QJ6BAhJEAE"
     },
     {
-      "query": "mcdonald's history",
-      "link": "https://www.google.com/search?gl=au&q=McDonald%27s+history&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q1QJ6BAg_EAE"
+      "query": "who was the first black president of the united states",
+      "link": "https://www.google.com/search?gl=au&q=Who+was+the+first+Black+president+of+the+United+States&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Q1QJ6BAhKEAE"
     },
     {
-      "query": "mcdonald's logo",
-      "link": "https://www.google.com/search?gl=au&q=McDonald%27s+logo&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q1QJ6BAg-EAE"
+      "query": "who is the new president of america",
+      "link": "https://www.google.com/search?gl=au&q=Who+is+the+New+President+of+America&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Q1QJ6BAhHEAE"
     },
     {
-      "query": "what is mcdonald's slogan",
-      "link": "https://www.google.com/search?gl=au&q=What+is+McDonald%27s+slogan&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q1QJ6BAg8EAE"
+      "query": "who was the second president",
+      "link": "https://www.google.com/search?gl=au&q=Who+was+the+second+President&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Q1QJ6BAhLEAE"
     },
     {
-      "query": "mcdonald's online",
-      "link": "https://www.google.com/search?gl=au&q=McDonald%27s+online&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q1QJ6BAg7EAE"
+      "query": "all presidents in order",
+      "link": "https://www.google.com/search?gl=au&q=All+presidents+in+order&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Q1QJ6BAhNEAE"
     },
     {
-      "query": "mcdonald's owner",
-      "link": "https://www.google.com/search?gl=au&q=McDonald%27s+owner&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q1QJ6BAg6EAE"
+      "query": "when was george washington president",
+      "link": "https://www.google.com/search?gl=au&q=When+Was+George+Washington+President&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Q1QJ6BAhMEAE"
     },
     {
-      "query": "mcdonald's menu",
-      "link": "https://www.google.com/search?gl=au&q=McDonald%27s+menu&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q1QJ6BAg5EAE"
+      "query": "who is the 46th president",
+      "link": "https://www.google.com/search?gl=au&q=Who+is+the+46th+President&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Q1QJ6BAhPEAE"
     },
     {
-      "query": "what is mcdonald's chicken nuggets made of",
-      "link": "https://www.google.com/search?gl=au&q=What+is+McDonald%27s+chicken+nuggets+made+of&sa=X&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q1QJ6BAhBEAE"
+      "query": "george washington presidency",
+      "link": "https://www.google.com/search?gl=au&q=George+Washington+presidency&sa=X&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Q1QJ6BAhOEAE"
     }
   ],
   "pagination": {
     "current": 1,
-    "next": "https://www.google.com/search?q=what+is+mcdonald%27s&gl=au&ei=nPKAYv7wOquk_QaehI_wDQ&start=10&sa=N&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q8NMDegQIAhBK",
+    "next": "https://www.google.com/search?q=who+is+the+first+president+of+america&gl=au&ei=LF2dYt2pI4jcqtsPqpu3eA&start=10&sa=N&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Q8NMDegQIARBK",
     "other_pages": {
-      "2": "https://www.google.com/search?q=what+is+mcdonald%27s&gl=au&ei=nPKAYv7wOquk_QaehI_wDQ&start=10&sa=N&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q8tMDegQIAhA4",
-      "3": "https://www.google.com/search?q=what+is+mcdonald%27s&gl=au&ei=nPKAYv7wOquk_QaehI_wDQ&start=20&sa=N&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q8tMDegQIAhA6",
-      "4": "https://www.google.com/search?q=what+is+mcdonald%27s&gl=au&ei=nPKAYv7wOquk_QaehI_wDQ&start=30&sa=N&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q8tMDegQIAhA8",
-      "5": "https://www.google.com/search?q=what+is+mcdonald%27s&gl=au&ei=nPKAYv7wOquk_QaehI_wDQ&start=40&sa=N&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q8tMDegQIAhA-",
-      "6": "https://www.google.com/search?q=what+is+mcdonald%27s&gl=au&ei=nPKAYv7wOquk_QaehI_wDQ&start=50&sa=N&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q8tMDegQIAhBA",
-      "7": "https://www.google.com/search?q=what+is+mcdonald%27s&gl=au&ei=nPKAYv7wOquk_QaehI_wDQ&start=60&sa=N&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q8tMDegQIAhBC",
-      "8": "https://www.google.com/search?q=what+is+mcdonald%27s&gl=au&ei=nPKAYv7wOquk_QaehI_wDQ&start=70&sa=N&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q8tMDegQIAhBE",
-      "9": "https://www.google.com/search?q=what+is+mcdonald%27s&gl=au&ei=nPKAYv7wOquk_QaehI_wDQ&start=80&sa=N&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q8tMDegQIAhBG",
-      "10": "https://www.google.com/search?q=what+is+mcdonald%27s&gl=au&ei=nPKAYv7wOquk_QaehI_wDQ&start=90&sa=N&ved=2ahUKEwj-ru6vweH3AhUrUt8KHR7CA94Q8tMDegQIAhBI"
+      "2": "https://www.google.com/search?q=who+is+the+first+president+of+america&gl=au&ei=LF2dYt2pI4jcqtsPqpu3eA&start=10&sa=N&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Q8tMDegQIARA4",
+      "3": "https://www.google.com/search?q=who+is+the+first+president+of+america&gl=au&ei=LF2dYt2pI4jcqtsPqpu3eA&start=20&sa=N&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Q8tMDegQIARA6",
+      "4": "https://www.google.com/search?q=who+is+the+first+president+of+america&gl=au&ei=LF2dYt2pI4jcqtsPqpu3eA&start=30&sa=N&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Q8tMDegQIARA8",
+      "5": "https://www.google.com/search?q=who+is+the+first+president+of+america&gl=au&ei=LF2dYt2pI4jcqtsPqpu3eA&start=40&sa=N&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Q8tMDegQIARA-",
+      "6": "https://www.google.com/search?q=who+is+the+first+president+of+america&gl=au&ei=LF2dYt2pI4jcqtsPqpu3eA&start=50&sa=N&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Q8tMDegQIARBA",
+      "7": "https://www.google.com/search?q=who+is+the+first+president+of+america&gl=au&ei=LF2dYt2pI4jcqtsPqpu3eA&start=60&sa=N&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Q8tMDegQIARBC",
+      "8": "https://www.google.com/search?q=who+is+the+first+president+of+america&gl=au&ei=LF2dYt2pI4jcqtsPqpu3eA&start=70&sa=N&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Q8tMDegQIARBE",
+      "9": "https://www.google.com/search?q=who+is+the+first+president+of+america&gl=au&ei=LF2dYt2pI4jcqtsPqpu3eA&start=80&sa=N&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Q8tMDegQIARBG",
+      "10": "https://www.google.com/search?q=who+is+the+first+president+of+america&gl=au&ei=LF2dYt2pI4jcqtsPqpu3eA&start=90&sa=N&ved=2ahUKEwjd7-X32pf4AhUIrmoFHarNDQ8Q8tMDegQIARBI"
     }
   },
   "serpapi_pagination": {
     "current": 1,
-    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=what+is+mcdonald%27s&start=10",
-    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=what+is+mcdonald%27s&start=10",
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=who+is+the+first+president+of+america&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=who+is+the+first+president+of+america&start=10",
     "other_pages": {
-      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=what+is+mcdonald%27s&start=10",
-      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=what+is+mcdonald%27s&start=20",
-      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=what+is+mcdonald%27s&start=30",
-      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=what+is+mcdonald%27s&start=40",
-      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=what+is+mcdonald%27s&start=50",
-      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=what+is+mcdonald%27s&start=60",
-      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=what+is+mcdonald%27s&start=70",
-      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=what+is+mcdonald%27s&start=80",
-      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=what+is+mcdonald%27s&start=90"
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=who+is+the+first+president+of+america&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=who+is+the+first+president+of+america&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=who+is+the+first+president+of+america&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=who+is+the+first+president+of+america&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=who+is+the+first+president+of+america&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=who+is+the+first+president+of+america&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=who+is+the+first+president+of+america&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=who+is+the+first+president+of+america&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=au&google_domain=google.com&q=who+is+the+first+president+of+america&start=90"
     }
   }
 }
