@@ -200,9 +200,9 @@ def search(search_key_word,text_to_speech_settings)
             definition_list= answer_box["definitions"]
             response = "#{answer_box["syllables"]} is a #{word_type}. It has #{definition_list.length} meanings. "
             for i in 1..definition_list.length
-                response += "\n"
+                # response += "\n"
                 response += "#{i}. #{definition_list[i-1]}"
-                
+
             end
             puts response
         elsif answer_box["type"] == "organic_result"

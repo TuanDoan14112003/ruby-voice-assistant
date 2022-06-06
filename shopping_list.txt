@@ -1,2 +1,5 @@
 eggs
 brats
+bread
+wine
+potatoes

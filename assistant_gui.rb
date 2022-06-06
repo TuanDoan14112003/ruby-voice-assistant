@@ -56,12 +56,14 @@ class VirtualVoiceAssistantWindow < Gosu::Window
     end
     
     def microphone_stop_recording(microphone,queue_buffer)
-        microphone.stop_recording
+        queue_buffer.push(nil)
+        @streaming = false
+        microphone.stop_recording()
     end
     
     def microphone_stream(microphone, queue_buffer)
         Enumerator.new do |enum|
-            while true
+            while @streaming
                 chunk = queue_buffer.pop()
                 if chunk == nil
                     return
@@ -92,7 +94,7 @@ class VirtualVoiceAssistantWindow < Gosu::Window
         end
     end
 
-    def process_responses(responses)
+    def process_responses(responses, microphone,queue_buffer)
         Thread.new {
             num_chars_printed = 0
             for response in responses
@@ -100,36 +102,19 @@ class VirtualVoiceAssistantWindow < Gosu::Window
                     next
                 end
 
-                # The `results` list is consecutive. For streaming, we only care about
-                # the first result being considered, since once it's `is_final`, it
-                # moves on to considering the next utterance.
                 result = response.results[0]
                 if result.alternatives.length == 0
                     next
                 end
-                # Display the transcription of the top alternative.
+                
                 transcript = result.alternatives[0].transcript.downcase
         
-                # Display interim results, but with a carriage return at the end of the
-                # line, so subsequent lines will overwrite them.
-                #
-                # If the previous result was longer than this one, we need to print
-                # some extra spaces to overwrite the previous result
-                if num_chars_printed - transcript.length < 0
-                    overwrite_chars = ""
-                else
-                    overwrite_chars = " " * (num_chars_printed - transcript.length)
-                end
+             
                 
                 @user_command = transcript
                 @assistant_response = "..."
                 
-                if result.is_final == false
-                    STDOUT.write(transcript + overwrite_chars + "\r")
-                    STDOUT.flush()
-                    num_chars_printed = transcript.length
-                else
-                    puts(transcript + overwrite_chars)
+                if result.is_final == true
                     if transcript.match(/time/)
                         assistant_response = get_current_time()
                     elsif transcript.match(/day/)
@@ -138,7 +123,7 @@ class VirtualVoiceAssistantWindow < Gosu::Window
                         assistant_response = get_current_weather()
                     elsif match = transcript.match(/add (?<item>\w+) to/)
                         assistant_response = add_item_to_shopping_list(match["item"],)
-                    elsif transcript.match(/what .+ shopping list/)
+                    elsif transcript.match(/(what|what's) .+ shopping list/)
                         assistant_response = get_shopping_list()
                     elsif match = transcript.match(/(?<search_keyword>(who|what|how|when|where|are|is).+)/)
                         assistant_response = search(match['search_keyword'])
@@ -147,10 +132,10 @@ class VirtualVoiceAssistantWindow < Gosu::Window
                     else
                         assistant_response = get_unknow_command()
                     end
-                    
                     @assistant_response = assistant_response
+                    microphone_stop_recording(microphone,queue_buffer)
                     num_chars_printed = 0
-                    @streaming = false
+
                     break
                 end
             end
@@ -163,14 +148,15 @@ class VirtualVoiceAssistantWindow < Gosu::Window
         @WINDOW_WIDTH = 1000
         @WINDOW_HEIGHT = 500
         @WINDOW_BORDER = 30
+        
+        @assistant_response = ""
+        @voice_command = ""
+        @speech_to_text_client , @speech_to_text_config = set_up_speech_to_text(:LINEAR16, 16_000, "en-US", true, false)
+        @text_to_speech_settings = set_up_text_to_speech("en-US","en-GB-Wavenet-A",:LINEAR16)
         super(@WINDOW_WIDTH, @WINDOW_HEIGHT, false)
         @font = Gosu::Font.new(self, Gosu::default_font_name, 20)
         self.caption = "Virtual Voice Assistant"
-        @speech_to_text_client , @speech_to_text_config = set_up_speech_to_text(:LINEAR16, 16_000, "en-US", true, false)
-        @text_to_speech_settings = set_up_text_to_speech("en-US","en-GB-Wavenet-A",:LINEAR16)
-        # @microphone = Pocketsphinx::Microphone.new()
-        # @queue_buffer = Queue.new
-        @assistant_response = ""
+
     end
 
 
@@ -262,6 +248,8 @@ class VirtualVoiceAssistantWindow < Gosu::Window
         
     def search(search_key_word)
         search_query = URI.encode_www_form([['q',search_key_word]])
+        uri = "https://google.com/search?" + search_query
+        Launchy.open(uri)
         serpapi_key = "6383e617670c68b60eaf5825a8142efd2a0fb91e2abd4e4723b1f3e21944a385"
         uri = "https://serpapi.com/search?api_key=#{serpapi_key}&gl=au&#{search_query}"
         serpapi_response = HTTP.get(uri)
@@ -287,7 +275,7 @@ class VirtualVoiceAssistantWindow < Gosu::Window
                 definition_list= answer_box["definitions"]
                 response = "#{answer_box["syllables"]} is a #{word_type}. It has #{definition_list.length} meanings. "
                 for i in 1..definition_list.length
-                    response += "\n"
+                    response += " "
                     response += "#{i}. #{definition_list[i-1]}"
                 end
             elsif answer_box["type"] == "organic_result"
@@ -308,14 +296,6 @@ class VirtualVoiceAssistantWindow < Gosu::Window
 
         puts response
         convert_text_to_speech(response)
-        file = File.new('search_result.json','w')
-        file.puts serpapi_response
-        file.close()
-
-        
-        uri = "https://google.com/search?" + search_query
-        Launchy.open(uri)
-
         return response
 
     end
@@ -391,28 +371,28 @@ class VirtualVoiceAssistantWindow < Gosu::Window
     end
 
 
-    def draw_prompt_message()
-        @font.draw_text(@prompt, @WINDOW_WIDTH/2 - 100, @WINDOW_BORDER, ZOrder::TOP, 1,1 ,Gosu::Color.argb(0xff_000000) )
+    def draw_prompt_message(prompt)
+        @font.draw_text(prompt, @WINDOW_WIDTH/2 - 100, @WINDOW_BORDER, ZOrder::TOP, 1,1 ,Gosu::Color.argb(0xff_000000) )
     end
 
     def draw()
         draw_background()
         draw_message_box()
-        draw_prompt_message()
+        draw_prompt_message(@prompt)
     end
 
     def stream()
         @prompt = "You can speak now"
         @streaming = true
-        @microphone = Pocketsphinx::Microphone.new()
-        @queue_buffer = Queue.new
         @assistant_response = ""
-        microphone_start_recording(@microphone, @queue_buffer)
-        stream = microphone_stream(@microphone, @queue_buffer)
+        microphone = Pocketsphinx::Microphone.new()
+        queue_buffer = Queue.new()
+        microphone_start_recording(microphone, queue_buffer)
+        stream = microphone_stream(microphone, queue_buffer)
         requests = generate_request(stream)
         responses = @speech_to_text_client.streaming_recognize(requests)
-        process_responses(responses)
-        
+        process_responses(responses,microphone, queue_buffer)
+
     end
 
     def update()
@@ -428,3 +408,5 @@ end
 
 window = VirtualVoiceAssistantWindow.new
 window.show
+
+# Reference: https://cloud.google.com/speech-to-text/docs/samples/speech-transcribe-streaming-mic#speech_transcribe_streaming_mic-python
